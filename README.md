@@ -63,16 +63,6 @@ Goal:
 
 ---
 
-# 👀 Visitors
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Babin123456&style=for-the-badge&color=blue">
-
-</p>
-
----
-
 # ⚡ Fun Facts
 
 - 🌙 Night Owl Developer
