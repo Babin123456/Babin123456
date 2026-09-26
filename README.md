@@ -153,15 +153,17 @@ Contributing, experimenting, collaborating and building for the community.
 
 <div align="center">
 
-## 🏆 Open Source & Contributions
+## 🏆 Open Source & Achievements
 
 ### Building in Public • Learning in Public • Contributing in Public
 
-</div>
+<br/>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Babin123456&theme=algolia&no-frame=true&no-bg=true"/>
-</p>
+<a href="https://github.com/Babin123456?tab=achievements" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="95px" alt="Pull Shark x4" title="Pull Shark x4 - Merged PRs" style="margin: 0 8px;"/></a><a href="https://github.com/Babin123456?tab=achievements" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="95px" alt="Quickdraw" title="Quickdraw - Closed issue/PR within 5 minutes" style="margin: 0 8px;"/></a><a href="https://github.com/Babin123456?tab=achievements" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="95px" alt="Pair Extraordinaire" title="Pair Extraordinaire - Co-authored commits" style="margin: 0 8px;"/></a><a href="https://github.com/Babin123456?tab=achievements" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="95px" alt="YOLO" title="YOLO - Merged PR without review" style="margin: 0 8px;"/></a>
+
+<sub><em>Click badges to view verified achievements on GitHub</em></sub>
+
+</div>
 
 ---
 
@@ -257,16 +259,19 @@ Contributing, experimenting, collaborating and building for the community.
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.shion.dev/api?username=Babin123456&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
-<img width="49%" src="https://streak-stats.demolab.com/?user=Babin123456&theme=github_dark&hide_border=true"/>
+<!-- Streak Card with IST Timezone Enabled -->
+<img src="https://streak-stats.demolab.com/?user=Babin123456&theme=github_dark&hide_border=true&timezone=Asia/Kolkata" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Babin123456&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+<!-- GitHub Stats & Top Languages Cards -->
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Babin123456&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true&v=4" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Babin123456&layout=compact&langs_count=6&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=true&v=4" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Babin123456&theme=github-dark&hide_border=true&area=true"/>
+<!-- Stable Activity Summary Graph -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Babin123456&theme=github_dark" alt="Activity Summary" />
 
 </div>
 
@@ -299,7 +304,6 @@ Contributing, experimenting, collaborating and building for the community.
 <br/><br/>
 
 ### `Code • Create • Contribute • Repeat 🚀`
-
 
 ### Thanks for visiting my profile! 
 
