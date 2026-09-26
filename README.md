@@ -1,15 +1,30 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,25,30&text=Babin&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20AI/ML%20Enthusiast%20•%20Open%20Source%20Contributor&descAlignY=60&descAlign=50" alt="Header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:1D4ED8,100:06B6D4&text=Babin&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%2FML%20Enthusiast%20%E2%80%A2%20Open%20Source%20Contributor&descAlignY=61&descAlign=50&descSize=17" alt="Babin Header"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Babin Bid</h1>
 
-<h3 align="center">
-  💻 Full Stack Developer • 🤖 AI/ML Enthusiast • ☁️ Cloud Explorer • 🚀 Open Source Contributor
-</h3>
+<p align="center">
+  <strong>Building intelligent software at the intersection of AI, engineering & innovation.</strong>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1200&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Building+AI-Powered+Applications;Exploring+Machine+Learning;Developing+Full+Stack+Solutions;Learning+Cloud+%26+DevOps;Contributing+to+Open+Source;Always+Learning.+Always+Building.+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=850&lines=Building+AI-Powered+Applications;Engineering+Full+Stack+Systems;Exploring+Cloud+%26+Modern+Infrastructure;Contributing+to+Open+Source;Turning+Ideas+into+Real-World+Solutions" alt="Typing SVG"/>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/babinbid123">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Babin123456">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://medium.com/@babinbid05">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+  <a href="https://youtube.com/@BabinBid-em1hs">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -20,53 +35,39 @@
 
 ### `> whoami`
 
-<h2>🚀 Developer by Passion • Engineer by Mindset • Builder by Choice</h2>
+</div>
 
-<br>
-
-<table>
+<table align="center">
 <tr>
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
-<h3>🎓 Education</h3>
+### 🚀 Who I Am
 
-<strong>B.Tech</strong>
+I'm a **Computer Science & Engineering student** who enjoys turning ideas into real-world software.
 
-Computer Science & Engineering
+My interests sit at the intersection of:
 
-</td>
-<td align="center" width="50%">
-
-<h3>💡 Passion</h3>
-
-<strong>Technology • Innovation • Development</strong>
-
-Turning ideas into real-world solutions
+* 🤖 Artificial Intelligence
+* 🌐 Full Stack Engineering
+* ☁️ Cloud & DevOps
+* 📊 Data & Machine Learning
+* 🌱 Open Source
 
 </td>
-</tr>
 
-<tr>
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
-<h3>🔭 Currently Building</h3>
+### 🔭 What I Do
 
-<strong>🤖 AI & Machine Learning Projects</strong>
+I like building systems that combine **good engineering with useful ideas**.
 
-<strong>🌐 Full Stack Applications</strong>
+Currently focused on:
 
-<strong>🌱 Open Source Contributions</strong>
-
-</td>
-<td align="center" width="50%">
-
-<h3>🚀 Currently Exploring</h3>
-
-<strong>🧠 Artificial Intelligence</strong>
-
-<strong>☁️ Cloud Computing</strong>
-
-<strong>⚙️ DevOps & Modern Technologies</strong>
+* AI-powered applications
+* Full-stack platforms
+* Machine learning experiments
+* Cloud-native systems
+* Open-source projects
 
 </td>
 </tr>
@@ -74,48 +75,23 @@ Turning ideas into real-world solutions
 
 <br>
 
-### ⚡ My Developer Journey
-
-### `Think` ➜ `Learn` ➜ `Build` ➜ `Break` ➜ `Debug` ➜ `Improve` ➜ `Repeat 🔁`
-
-<br>
-
-### 🎯 The Mission
-
-<h3>Build. Innovate. Contribute. Impact.</h3>
-
-<p>
-  Creating meaningful software, contributing to the open-source ecosystem,
-  <br>
-  and building technology that makes a difference in the real world.
-</p>
-
-<br>
-
-### 💭 Developer Philosophy
-
-</div>
-
-```text
-while (alive) {
-    learn();
-    build();
-    contribute();
-    improve();
-}
-```
-
-<br>
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/Focus-Artificial_Intelligence-blueviolet?style=for-the-badge" alt="Artificial Intelligence"/>
-<img src="https://img.shields.io/badge/Passion-Open_Source-success?style=for-the-badge" alt="Open Source"/>
-<img src="https://img.shields.io/badge/Mindset-Always_Learning-orange?style=for-the-badge" alt="Always Learning"/>
+### ⚡ My Developer Journey
 
-<br><br>
+`Think` → `Learn` → `Build` → `Break` → `Debug` → `Improve` → `Repeat 🔁`
 
-### 🚀 `Code • Create • Contribute • Repeat`
+<br>
+
+### 🎯 My Mission
+
+**Build. Innovate. Contribute. Impact.**
+
+<p>
+Creating meaningful software, contributing to open source,
+<br/>
+and continuously exploring what technology can make possible.
+</p>
 
 </div>
 
@@ -123,22 +99,69 @@ while (alive) {
 
 <div align="center">
 
-## 🌐 Connect With Me
-
-<a href="https://linkedin.com/in/babinbid123">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://medium.com/@babinbid05">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-</a>
-<a href="https://youtube.com/@BabinBid-em1hs">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-</a>
-<a href="mailto:babinbid3@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+## 🧠 What I Build
 
 </div>
+
+<table align="center">
+<tr>
+
+<td align="center" width="25%">
+
+### 🤖
+
+**AI & ML**
+
+Intelligent applications, machine learning systems and data-driven solutions.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🌐
+
+**Full Stack**
+
+Modern web platforms, APIs, dashboards and real-time applications.
+
+</td>
+
+<td align="center" width="25%">
+
+### ☁️
+
+**Cloud**
+
+Deployment, infrastructure, containers and modern development workflows.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🌱
+
+**Open Source**
+
+Contributing, experimenting, collaborating and building for the community.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🏆 Open Source & Contributions
+
+### Building in Public • Learning in Public • Contributing in Public
+
+</div>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Babin123456&theme=algolia&no-frame=true&no-bg=true"/>
+</p>
 
 ---
 
@@ -146,162 +169,140 @@ while (alive) {
 
 ## 🛠️ Tech Stack
 
+*Technologies I use to turn ideas into working systems.*
+
 </div>
 
 <table align="center">
 <tr>
 <td align="center" width="220"><strong>Category</strong></td>
-<td align="center"><strong>Technologies & Tools</strong></td>
+<td align="center"><strong>Technologies</strong></td>
 </tr>
 
 <tr>
-<td align="center"><strong>👨‍💻 Programming Languages</strong></td>
+<td align="center">👨‍💻 <strong>Languages</strong></td>
 <td align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript" alt="Programming Languages"/>
-
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript"/>
 </td>
 </tr>
 
 <tr>
-<td align="center"><strong>🌐 Frontend Development</strong></td>
+<td align="center">🎨 <strong>Frontend</strong></td>
 <td align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,vite,threejs" alt="Frontend Development"/>
-
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,vite,threejs"/>
 </td>
 </tr>
 
 <tr>
-<td align="center"><strong>⚙️ Backend Development</strong></td>
+<td align="center">⚙️ <strong>Backend</strong></td>
 <td align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,nextjs" alt="Backend Development"/>
-
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,nextjs"/>
 </td>
 </tr>
 
 <tr>
-<td align="center"><strong>🤖 AI, ML & Data Science</strong></td>
+<td align="center">🤖 <strong>AI / ML / Data</strong></td>
 <td align="center">
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" alt="AI and Machine Learning"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"/>
-<img src="https://img.shields.io/badge/Matplotlib-FFFFFF?style=for-the-badge&logo=python&logoColor=black" alt="Matplotlib"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
-
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
 </td>
 </tr>
 
 <tr>
-<td align="center"><strong>🗄️ Databases</strong></td>
+<td align="center">🗄️ <strong>Databases</strong></td>
 <td align="center">
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,supabase,firebase,prisma" alt="Databases"/>
-
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,supabase,firebase,prisma"/>
 </td>
 </tr>
 
 <tr>
-<td align="center"><strong>☁️ Cloud & Deployment</strong></td>
+<td align="center">☁️ <strong>Cloud & Deployment</strong></td>
 <td align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,vercel,netlify,heroku" alt="Cloud and Deployment"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-<img src="https://img.shields.io/badge/DigitalOcean-0167FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean"/>
-<img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
-
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,vercel,netlify"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white"/>
 </td>
 </tr>
 
 <tr>
-<td align="center"><strong>🔧 DevOps & Development Tools</strong></td>
+<td align="center">🔧 <strong>DevOps & Tools</strong></td>
 <td align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,cmake,npm,postman,bash,powershell" alt="DevOps and Development Tools"/>
-
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,npm,postman,bash,powershell"/>
 </td>
 </tr>
 
 <tr>
-<td align="center"><strong>🧪 Testing & Code Quality</strong></td>
+<td align="center">🎨 <strong>Design & Productivity</strong></td>
 <td align="center">
-
-<img src="https://skillicons.dev/icons?i=vitest,eslint" alt="Testing and Code Quality"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white" alt="Testing Library"/>
-<img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" alt="Prettier"/>
-
-</td>
-</tr>
-
-<tr>
-<td align="center"><strong>🎨 Design & Productivity</strong></td>
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=figma,notion" alt="Design and Productivity"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-<img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/>
-<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
-
+<img src="https://skillicons.dev/icons?i=figma,notion"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white"/>
 </td>
 </tr>
 
 </table>
 
-
 ---
 
 <div align="center">
 
-## 📊 GitHub Statistics
-
-<img width="49%" src="https://github-readme-stats.shion.dev/api?username=Babin123456&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Babin's GitHub Stats"/>
-<img width="49%" src="https://streak-stats.demolab.com/?user=Babin123456&theme=github_dark&hide_border=true" alt="GitHub Streak"/>
+## 📊 GitHub Analytics
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Babin123456&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 📈 GitHub Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Babin123456&theme=github-dark&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 👀 Profile Views
-
-<img src="https://komarev.com/ghpvc/?username=Babin123456&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+<img width="49%" src="https://github-readme-stats.shion.dev/api?username=Babin123456&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=Babin123456&theme=github_dark&hide_border=true"/>
 
 <br/><br/>
 
-### Thanks for visiting my profile! 👋
+<img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Babin123456&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
 
-**Open to collaboration, open-source contributions, and building impactful projects. 🚀**
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Babin123456&theme=github-dark&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 Let's Connect
+
+<a href="https://linkedin.com/in/babinbid123">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://medium.com/@babinbid05">
+<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
+<a href="https://youtube.com/@BabinBid-em1hs">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="mailto:babinbid3@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Babin123456&style=for-the-badge&color=06B6D4"/>
+
+<br/><br/>
+
+### `Code • Create • Contribute • Repeat 🚀`
+
+
+### Thanks for visiting my profile! 
+
+👋 **Open to collaboration, open-source contributions, and building impactful projects. 🚀**
 
 </div>
