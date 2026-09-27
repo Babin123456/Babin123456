@@ -310,3 +310,12 @@ Contributing, experimenting, collaborating and building for the community.
 👋 **Open to collaboration, open-source contributions, and building impactful projects. 🚀**
 
 </div>
+
+<!-- 🌊 Closing Footer Wave -->
+<p align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:06B6D4,50:1D4ED8,100:0F172A&animation=fadeIn"
+    alt="Babin Footer Wave"
+  />
+</p>
