@@ -1,5 +1,9 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:1D4ED8,100:06B6D4&text=Babin&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%2FML%20Enthusiast%20%E2%80%A2%20Open%20Source%20Contributor&descAlignY=61&descAlign=50&descSize=17" alt="Babin Header"/>
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,25:1D4ED8,50:06B6D4,75:10B981,100:064E3B&text=BABIN&fontFamily=Times%20New%20Roman&fontSize=76&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%2FML%20Enthusiast%20%E2%80%A2%20Open%20Source%20Contributor&descAlignY=61&descAlign=50&descSize=17&descColor=E2E8F0"
+    alt="BABIN Header"
+  />
 </p>
 
 <h1 align="center">
