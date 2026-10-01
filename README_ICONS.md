@@ -305,6 +305,8 @@ Contributing, experimenting, collaborating and building for the community.
   <img src="./assets/Badges/NSoC_2026/NSOC_Contributor.webp" width="70px" title="NSoC Contributor - Verified open-source contributor" alt="NSoC Contributor"/>
 </p>
 
+<sub><em><a href="https://lnkd.in/p/dSN98zxP" style="text-decoration: none;">View official announcement & verification on LinkedIn</a></em></sub>
+
 </div>
 
 ---
