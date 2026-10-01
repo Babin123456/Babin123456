@@ -496,6 +496,8 @@ Contributing, experimenting, collaborating and building for the community.
 
 <h2 align="center"><img src="./assets/icons/connect-left.svg" width="26" valign="middle"/>&nbsp; 𝐋𝐞𝐭'𝐬 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 &nbsp;<img src="./assets/icons/connect-right.svg" width="26" valign="middle"/></h2>
 
+</br>
+
 <a href="https://linkedin.com/in/babinbid123">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
