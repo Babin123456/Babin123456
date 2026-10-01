@@ -116,7 +116,9 @@ and continuously exploring what technology can make possible.
 
 <td align="center" width="25%">
 
-### AI & ML
+<p align="center">
+  <img src="./assets/icons/tech-ai.svg" width="36" alt="AI & ML"/>
+</p>
 
 **AI & ML**
 
@@ -126,7 +128,9 @@ Intelligent applications, machine learning systems and data-driven solutions.
 
 <td align="center" width="25%">
 
-### Full Stack
+<p align="center">
+  <img src="./assets/icons/tech-globe.svg" width="36" alt="Full Stack"/>
+</p>
 
 **Full Stack**
 
@@ -136,7 +140,9 @@ Modern web platforms, APIs, dashboards and real-time applications.
 
 <td align="center" width="25%">
 
-### Cloud
+<p align="center">
+  <img src="./assets/icons/tech-cloud.svg" width="36" alt="Cloud"/>
+</p>
 
 **Cloud**
 
@@ -146,7 +152,9 @@ Deployment, infrastructure, containers and modern development workflows.
 
 <td align="center" width="25%">
 
-### Open Source
+<p align="center">
+  <img src="./assets/icons/tech-opensource.svg" width="36" alt="Open Source"/>
+</p>
 
 **Open Source**
 
