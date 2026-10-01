@@ -205,7 +205,9 @@ Contributing, experimenting, collaborating and building for the community.
 
 <!-- ===================== GSSoC 2026 ===================== -->
 <h4><img src="./assets/icons/flower-left.svg" width="20" valign="middle"/>&nbsp; 𝐆𝐢𝐫𝐥𝐒𝐜𝐫𝐢𝐩𝐭 𝐒𝐮𝐦𝐦𝐞𝐫 𝐨𝐟 𝐂𝐨𝐝𝐞 𝟐𝟎𝟐𝟔 (𝐆𝐒𝐒𝐨𝐂 '𝟐𝟔) &nbsp;<img src="./assets/icons/flower-right.svg" width="20" valign="middle"/></h4>
-<img src="https://img.shields.io/badge/GSSoC'26-26%20Badges%20Earned-FF725E?style=flat-square&logo=github&logoColor=white"/>
+<a href="https://gssoc.girlscript.org/profile/77dcd93c-f754-4bb4-9516-16a2cf29988c" target="_blank" title="View GSSoC Profile">
+  <img src="https://img.shields.io/badge/GSSoC'26-26%20Badges%20Earned-FF725E?style=flat-square&logo=github&logoColor=white"/>
+</a>
 
 <br/><br/>
 
@@ -261,11 +263,15 @@ Contributing, experimenting, collaborating and building for the community.
   <img src="./assets/Badges/GSSoC_2026/contributor.webp" width="70px" title="Contributor - Recognized open-source participant" alt="Contributor"/>
 </p>
 
-<br/>
+<sub><em><a href="https://gssoc.girlscript.org/profile/77dcd93c-f754-4bb4-9516-16a2cf29988c" style="text-decoration: none;">View verified profile on GSSoC</a></em></sub>
+
+<br/><br/>
 
 <!-- ===================== ELUSoC 2026 ===================== -->
 <h4><img src="./assets/icons/pickaxe-left.svg" width="20" valign="middle"/>&nbsp; 𝐄𝐋𝐔 𝐒𝐮𝐦𝐦𝐞𝐫 𝐨𝐟 𝐂𝐨𝐝𝐞 𝟐𝟎𝟐𝟔 (𝐄𝐋𝐔𝐒𝐨𝐂 '𝟐𝟔) &nbsp;<img src="./assets/icons/pickaxe-right.svg" width="20" valign="middle"/></h4>
-<img src="https://img.shields.io/badge/ELUSoC'26-Tier%20Progression-5865F2?style=flat-square&logo=github&logoColor=white"/>
+<a href="https://www.edulinkup.dev/u/babin123?tab=elusoc" target="_blank" title="View ELUSoC Profile">
+  <img src="https://img.shields.io/badge/ELUSoC'26-Tier%20Progression-5865F2?style=flat-square&logo=github&logoColor=white"/>
+</a>
 
 <br/><br/>
 <p><em>Tier Progression: From Spawnling to Repo Legend</em></p>
@@ -281,11 +287,15 @@ Contributing, experimenting, collaborating and building for the community.
   <img src="./assets/Badges/ELUSoC_2026/repo_legend.webp" width="70px" title="Repo Legend - Tier 8 • Codebase legend tier" alt="Repo Legend"/>
 </p>
 
-<br/>
+<sub><em><a href="https://www.edulinkup.dev/u/babin123?tab=elusoc" style="text-decoration: none;">View verified profile on ELUSoC</a></em></sub>
+
+<br/><br/>
 
 <!-- ===================== ECSoC 2026 ===================== -->
 <h4><img src="./assets/icons/zap-left.svg" width="20" valign="middle"/>&nbsp; 𝐄𝐂 𝐒𝐮𝐦𝐦𝐞𝐫 𝐨𝐟 𝐂𝐨𝐝𝐞 𝟐𝟎𝟐𝟔 (𝐄𝐂𝐒𝐨𝐂 '𝟐𝟔) &nbsp;<img src="./assets/icons/zap-right.svg" width="20" valign="middle"/></h4>
-<img src="https://img.shields.io/badge/ECSoC'26-Mastery%20Tiers-10B981?style=flat-square&logo=github&logoColor=white"/>
+<a href="https://www.summerofcode.xyz/profile/contributor/Babin123456" target="_blank" title="View ECSoC Profile">
+  <img src="https://img.shields.io/badge/ECSoC'26-Mastery%20Tiers-10B981?style=flat-square&logo=github&logoColor=white"/>
+</a>
 
 <br/><br/>
 <p><em>Mastery Tiers: From Beginner to Master</em></p>
@@ -299,11 +309,15 @@ Contributing, experimenting, collaborating and building for the community.
   <img src="./assets/Badges/ECSoC_2026/Master.webp" width="70px" title="Master - Tier 6 • Complete mastery rank" alt="Master"/>
 </p>
 
-<br/>
+<sub><em><a href="https://www.summerofcode.xyz/profile/contributor/Babin123456" style="text-decoration: none;">View verified profile on ECSoC</a></em></sub>
+
+<br/><br/>
 
 <!-- ===================== NSoC 2026 ===================== -->
 <h4><img src="./assets/icons/rocket-left.svg" width="20" valign="middle"/>&nbsp; 𝐍𝐞𝐱𝐮𝐬 𝐒𝐮𝐦𝐦𝐞𝐫 𝐨𝐟 𝐂𝐨𝐝𝐞 𝟐𝟎𝟐𝟔 (𝐍𝐒𝐨𝐂 '𝟐𝟔) &nbsp;<img src="./assets/icons/rocket-right.svg" width="20" valign="middle"/></h4>
-<img src="https://img.shields.io/badge/NSoC'26-Contributor%20Milestones-06B6D4?style=flat-square&logo=github&logoColor=white"/>
+<a href="https://lnkd.in/p/dSN98zxP" target="_blank" title="View NSoC Announcement">
+  <img src="https://img.shields.io/badge/NSoC'26-Contributor%20Milestones-06B6D4?style=flat-square&logo=github&logoColor=white"/>
+</a>
 
 <br/><br/>
 <p><em>Contributor Milestones</em></p>
