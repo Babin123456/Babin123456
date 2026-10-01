@@ -117,7 +117,7 @@ and continuously exploring what technology can make possible.
 <td align="center" width="25%">
 
 <p align="center">
-  <img src="./assets/icons/tech-ai.svg" width="36" alt="AI & ML"/>
+  <img src="./assets/icons/build-ai.svg" width="34" alt="AI & ML"/>
 </p>
 
 **AI & ML**
@@ -129,7 +129,7 @@ Intelligent applications, machine learning systems and data-driven solutions.
 <td align="center" width="25%">
 
 <p align="center">
-  <img src="./assets/icons/tech-globe.svg" width="36" alt="Full Stack"/>
+  <img src="./assets/icons/build-globe.svg" width="34" alt="Full Stack"/>
 </p>
 
 **Full Stack**
@@ -141,7 +141,7 @@ Modern web platforms, APIs, dashboards and real-time applications.
 <td align="center" width="25%">
 
 <p align="center">
-  <img src="./assets/icons/tech-cloud.svg" width="36" alt="Cloud"/>
+  <img src="./assets/icons/build-cloud.svg" width="34" alt="Cloud"/>
 </p>
 
 **Cloud**
@@ -153,7 +153,7 @@ Deployment, infrastructure, containers and modern development workflows.
 <td align="center" width="25%">
 
 <p align="center">
-  <img src="./assets/icons/tech-opensource.svg" width="36" alt="Open Source"/>
+  <img src="./assets/icons/build-opensource.svg" width="34" alt="Open Source"/>
 </p>
 
 **Open Source**
