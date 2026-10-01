@@ -8,8 +8,8 @@
 
 <h1 align="center">
   <img src="./assets/Robot_says_hello.svg" width="300"/> 
-</br
-  >I'm Babin Bid
+  <br/>
+  𝐈'𝐦 𝐁𝐚𝐛𝐢𝐧 𝐁𝐢𝐝
 </h1>
 
 <p align="center">
@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=850&lines=Building+AI-Powered+Applications;Engineering+Full+Stack+Systems;Exploring+Cloud+%26+Modern+Infrastructure;Contributing+to+Open+Source;Turning+Ideas+into+Real-World+Solutions" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=600&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=850&lines=Building+AI-Powered+Applications;Engineering+Full+Stack+Systems;Exploring+Cloud+%26+Modern+Infrastructure;Contributing+to+Open+Source;Turning+Ideas+into+Real-World+Solutions" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@
 
 <div align="center">
 
-## 👨‍💻 About Me 👨‍💻
+<h2 align="center"><img src="./assets/icons/about-left.svg" width="26" valign="middle"/>&nbsp; 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 &nbsp;<img src="./assets/icons/about-right.svg" width="26" valign="middle"/></h2>
 
 ### `> whoami`
 
@@ -49,23 +49,23 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🚀 Who I Am
+### <img src="./assets/icons/rocket-left.svg" width="20" valign="middle"/>&nbsp; 𝐖𝐡𝐨 𝐈 𝐀𝐦 &nbsp;<img src="./assets/icons/rocket-right.svg" width="20" valign="middle"/>
 
 I'm a **Computer Science & Engineering student** who enjoys turning ideas into real-world software.
 
 My interests sit at the intersection of:
 
-* 🤖 Artificial Intelligence
-* 🌐 Full Stack Engineering
-* ☁️ Cloud & DevOps
-* 📊 Data & Machine Learning
-* 🌱 Open Source
+* Artificial Intelligence
+* Full Stack Engineering
+* Cloud & DevOps
+* Data & Machine Learning
+* Open Source
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🔭 What I Do
+### <img src="./assets/icons/sparkle-left.svg" width="20" valign="middle"/>&nbsp; 𝐖𝐡𝐚𝐭 𝐈 𝐃𝐨 &nbsp;<img src="./assets/icons/sparkle-right.svg" width="20" valign="middle"/>
 
 I like building systems that combine **good engineering with useful ideas**.
 
@@ -85,13 +85,13 @@ Currently focused on:
 
 <div align="center">
 
-### ⚡ My Developer Journey ⚡
+<h3 align="center"><img src="./assets/icons/zap-left.svg" width="22" valign="middle"/>&nbsp; 𝐌𝐲 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐉𝐨𝐮𝐫𝐧𝐞𝐲 &nbsp;<img src="./assets/icons/zap-right.svg" width="22" valign="middle"/></h3>
 
-`Think` → `Learn` → `Build` → `Break` → `Debug` → `Improve` → `Repeat 🔁`
+`Think` → `Learn` → `Build` → `Break` → `Debug` → `Improve` → `Repeat`
 
 <br>
 
-### 🎯 My Mission 🎯
+<h3 align="center"><img src="./assets/icons/sparkle-left.svg" width="22" valign="middle"/>&nbsp; 𝐌𝐲 𝐌𝐢𝐬𝐬𝐢𝐨𝐧 &nbsp;<img src="./assets/icons/sparkle-right.svg" width="22" valign="middle"/></h3>
 
 **Build. Innovate. Contribute. Impact.**
 
@@ -107,7 +107,7 @@ and continuously exploring what technology can make possible.
 
 <div align="center">
 
-## 🧠 What I Build 🧠
+<h2 align="center"><img src="./assets/icons/build-left.svg" width="26" valign="middle"/>&nbsp; 𝐖𝐡𝐚𝐭 𝐈 𝐁𝐮𝐢𝐥𝐝 &nbsp;<img src="./assets/icons/build-right.svg" width="26" valign="middle"/></h2>
 
 </div>
 
@@ -116,7 +116,7 @@ and continuously exploring what technology can make possible.
 
 <td align="center" width="25%">
 
-### 🤖
+### AI & ML
 
 **AI & ML**
 
@@ -126,7 +126,7 @@ Intelligent applications, machine learning systems and data-driven solutions.
 
 <td align="center" width="25%">
 
-### 🌐
+### Full Stack
 
 **Full Stack**
 
@@ -136,7 +136,7 @@ Modern web platforms, APIs, dashboards and real-time applications.
 
 <td align="center" width="25%">
 
-### ☁️
+### Cloud
 
 **Cloud**
 
@@ -146,7 +146,7 @@ Deployment, infrastructure, containers and modern development workflows.
 
 <td align="center" width="25%">
 
-### 🌱
+### Open Source
 
 **Open Source**
 
@@ -161,15 +161,364 @@ Contributing, experimenting, collaborating and building for the community.
 
 <div align="center">
 
-## 🏆 Open Source & Achievements 🏆
+<h2 align="center"><img src="./assets/icons/trophy-left.svg" width="26" valign="middle"/>&nbsp; 𝐎𝐩𝐞𝐧 𝐒𝐨𝐮𝐫𝐜𝐞 & 𝐀𝐜𝐡𝐢𝐞𝐯𝐞𝐦𝐞𝐧𝐭𝐬 &nbsp;<img src="./assets/icons/trophy-right.svg" width="26" valign="middle"/></h2>
 
 ### Building in Public • Learning in Public • Contributing in Public
 
 <br/>
 
-<a href="https://github.com/Babin123456?tab=achievements" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="95px" alt="Pull Shark x4" title="Pull Shark x4 - Merged PRs" style="margin: 0 8px;"/></a><a href="https://github.com/Babin123456?tab=achievements" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="95px" alt="Quickdraw" title="Quickdraw - Closed issue/PR within 5 minutes" style="margin: 0 8px;"/></a><a href="https://github.com/Babin123456?tab=achievements" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="95px" alt="Pair Extraordinaire" title="Pair Extraordinaire - Co-authored commits" style="margin: 0 8px;"/></a><a href="https://github.com/Babin123456?tab=achievements" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="95px" alt="YOLO" title="YOLO - Merged PR without review" style="margin: 0 8px;"/></a>
+<!-- ===================== GITHUB ACHIEVEMENTS ===================== -->
+<h3><img src="./assets/icons/medal-left.svg" width="22" valign="middle"/>&nbsp; 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥 𝐆𝐢𝐭𝐇𝐮𝐛 𝐀𝐜𝐡𝐢𝐞𝐯𝐞𝐦𝐞𝐧𝐭𝐬 &nbsp;<img src="./assets/icons/medal-right.svg" width="22" valign="middle"/></h3>
 
+<table align="center">
+  <tr>
+    <td align="center" width="25%" valign="top">
+      <a href="https://github.com/Babin123456?tab=achievements" style="text-decoration: none;">
+        <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="75px" alt="Pull Shark x4"/>
+      </a><br/>
+      <strong>Pull Shark (x4)</strong><br/>
+      <sub>Merged multiple PRs</sub>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <a href="https://github.com/Babin123456?tab=achievements" style="text-decoration: none;">
+        <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="75px" alt="Quickdraw"/>
+      </a><br/>
+      <strong>Quickdraw</strong><br/>
+      <sub>Closed issue/PR within 5m</sub>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <a href="https://github.com/Babin123456?tab=achievements" style="text-decoration: none;">
+        <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="75px" alt="Pair Extraordinaire"/>
+      </a><br/>
+      <strong>Pair Extraordinaire</strong><br/>
+      <sub>Co-authored commits on PR</sub>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <a href="https://github.com/Babin123456?tab=achievements" style="text-decoration: none;">
+        <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="75px" alt="YOLO"/>
+      </a><br/>
+      <strong>YOLO</strong><br/>
+      <sub>Merged PR without review</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
 <sub><em>Click badges to view verified achievements on GitHub</em></sub>
+
+<br/><br/>
+
+<!-- ===================== SUMMER OF CODE & OPEN SOURCE BADGES ===================== -->
+<h3><img src="./assets/icons/sparkle-left.svg" width="22" valign="middle"/>&nbsp; 𝐎𝐩𝐞𝐧 𝐒𝐨𝐮𝐫𝐜𝐞 𝐏𝐫𝐨𝐠𝐫𝐚𝐦 𝐁𝐚𝐝𝐠𝐞𝐬 &nbsp;<img src="./assets/icons/sparkle-right.svg" width="22" valign="middle"/></h3>
+<p><em>Honors, tiers, and milestones earned across open-source programs and initiatives</em></p>
+
+<br/>
+
+<!-- ===================== GSSoC 2026 ===================== -->
+<h4><img src="./assets/icons/flower-left.svg" width="20" valign="middle"/>&nbsp; 𝐆𝐢𝐫𝐥𝐒𝐜𝐫𝐢𝐩𝐭 𝐒𝐮𝐦𝐦𝐞𝐫 𝐨𝐟 𝐂𝐨𝐝𝐞 𝟐𝟎𝟐𝟔 (𝐆𝐒𝐒𝐨𝐂 '𝟐𝟔) &nbsp;<img src="./assets/icons/flower-right.svg" width="20" valign="middle"/></h4>
+<img src="https://img.shields.io/badge/GSSoC'26-26%20Badges%20Earned-FF725E?style=flat-square&logo=github&logoColor=white"/>
+
+<br/><br/>
+
+<p><strong><img src="./assets/icons/trophy-left.svg" width="18" valign="middle"/>&nbsp; 𝐇𝐚𝐥𝐥 𝐨𝐟 𝐅𝐚𝐦𝐞 & 𝐓𝐨𝐩 𝐑𝐚𝐧𝐤𝐬 &nbsp;<img src="./assets/icons/trophy-right.svg" width="18" valign="middle"/></strong></p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%" valign="top">
+      <img src="./assets/Badges/GSSoC_2026/gssoc-badge-gssoc_champion.webp" width="70px" alt="GSSoC Champion"/><br/>
+      <strong>GSSoC Champion</strong><br/>
+      <sub>Grand winner & top rank</sub>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <img src="./assets/Badges/GSSoC_2026/gssoc-badge-legend.webp" width="70px" alt="Legend"/><br/>
+      <strong>Legend</strong><br/>
+      <sub>Legendary contributor status</sub>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <img src="./assets/Badges/GSSoC_2026/gssoc-badge-top_10.webp" width="70px" alt="Top 10 Contributor"/><br/>
+      <strong>Top 10</strong><br/>
+      <sub>Ranked in Top 10 leaderboard</sub>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <img src="./assets/Badges/GSSoC_2026/gssoc-badge-top_50.webp" width="70px" alt="Top 50 Contributor"/><br/>
+      <strong>Top 50</strong><br/>
+      <sub>Ranked in Top 50 leaderboard</sub>
+    </td>
+  </tr>
+</table>
+<table align="center">
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <img src="./assets/Badges/GSSoC_2026/gssoc-badge-top_100.webp" width="70px" alt="Top 100 Contributor"/><br/>
+      <strong>Top 100</strong><br/>
+      <sub>Ranked in Top 100 leaderboard</sub>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <img src="./assets/Badges/GSSoC_2026/gssoc-badge-elite.webp" width="70px" alt="Elite Contributor"/><br/>
+      <strong>Elite</strong><br/>
+      <sub>Elite merged PR volume</sub>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <img src="./assets/Badges/GSSoC_2026/gssoc-badge-unstoppable.webp" width="70px" alt="Unstoppable"/><br/>
+      <strong>Unstoppable</strong><br/>
+      <sub>Relentless contribution velocity</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<p><strong><img src="./assets/icons/zap-left.svg" width="18" valign="middle"/>&nbsp; 𝐒𝐭𝐫𝐞𝐚𝐤𝐬 & 𝐂𝐨𝐧𝐬𝐢𝐬𝐭𝐞𝐧𝐜𝐲 &nbsp;<img src="./assets/icons/zap-right.svg" width="18" valign="middle"/></strong></p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%" valign="top">
+      <img src="./assets/Badges/GSSoC_2026/gssoc-badge-power_contributor.webp" width="70px" alt="Power Contributor"/><br/>
+      <strong>Power Contributor</strong><br/>
+      <sub>High-impact feature builder</sub>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <img src="./assets/Badges/GSSoC_2026/gssoc-badge-rising_star.webp" width="70px" alt="Rising Star"/><br/>
+      <strong>Rising Star</strong><br/>
+      <sub>Fastest climbing contributor</sub>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <img src="./assets/Badges/GSSoC_2026/gssoc-badge-prolific.webp" width="70px" alt="Prolific Contributor"/><br/>
+      <strong>Prolific</strong><br/>
+      <sub>Extensive merged PR volume</sub>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <img src="./assets/Badges/GSSoC_2026/gssoc-badge-consistent.webp" width="70px" alt="Consistent Contributor"/><br/>
+      <strong>Consistent</strong><br/>
+      <sub>Daily active contribution streak</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%" valign="top">
+      <img src="./assets/Badges/GSSoC_2026/gssoc-badge-on_fire.webp" width="70px" alt="On Fire"/><br/>
+      <strong>On Fire</strong><br/>
+      <sub>High-intensity submission streak</sub>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <img src="./assets/Badges/GSSoC_2026/gssoc-badge-on_a_roll.webp" width="70px" alt="On a Roll"/><br/>
+      <strong>On a Roll</strong><br/>
+      <sub>Consecutive accepted PRs</sub>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <img src="./assets/Badges/GSSoC_2026/gssoc-badge-building_momentum.webp" width="70px" alt="Building Momentum"/><br/>
+      <strong>Building Momentum</strong><br/>
+      <sub>Accelerating project activity</sub>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <img src="./assets/Badges/GSSoC_2026/gssoc-badge-point_scorer.webp" width="70px" alt="Point Scorer"/><br/>
+      <strong>Point Scorer</strong><br/>
+      <sub>Scored high task points</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<p><strong><img src="./assets/icons/sparkle-left.svg" width="18" valign="middle"/>&nbsp; 𝐒𝐩𝐞𝐜𝐢𝐚𝐥𝐢𝐳𝐞𝐝 𝐓𝐫𝐚𝐜𝐤𝐬 & 𝐁𝐨𝐮𝐧𝐭𝐢𝐞𝐬 &nbsp;<img src="./assets/icons/sparkle-right.svg" width="18" valign="middle"/></strong></p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%" valign="top">
+      <img src="./assets/Badges/GSSoC_2026/gssoc-badge-bounty_master.webp" width="70px" alt="Bounty Master"/><br/>
+      <strong>Bounty Master</strong><br/>
+      <sub>Solved complex bounty issues</sub>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <img src="./assets/Badges/GSSoC_2026/gssoc-badge-bounty_hunter.webp" width="70px" alt="Bounty Hunter"/><br/>
+      <strong>Bounty Hunter</strong><br/>
+      <sub>Hunted & fixed bounty tasks</sub>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <img src="./assets/Badges/GSSoC_2026/ai.webp" width="70px" alt="AI Contributor"/><br/>
+      <strong>AI Track</strong><br/>
+      <sub>Built AI/ML models & features</sub>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <img src="./assets/Badges/GSSoC_2026/open.webp" width="70px" alt="Open Source Contributor"/><br/>
+      <strong>Open Source</strong><br/>
+      <sub>Core open-source champion</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<p><strong><img src="./assets/icons/rocket-left.svg" width="18" valign="middle"/>&nbsp; 𝐌𝐢𝐥𝐞𝐬𝐭𝐨𝐧𝐞𝐬 & 𝐎𝐧𝐛𝐨𝐚𝐫𝐝𝐢𝐧𝐠 &nbsp;<img src="./assets/icons/rocket-right.svg" width="18" valign="middle"/></strong></p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%" valign="top">
+      <img src="./assets/Badges/GSSoC_2026/gssoc-badge-week_one.webp" width="70px" alt="Week One"/><br/>
+      <strong>Week One</strong><br/>
+      <sub>Active in initial program week</sub>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <img src="./assets/Badges/GSSoC_2026/gssoc-badge-first_steps.webp" width="70px" alt="First Steps"/><br/>
+      <strong>First Steps</strong><br/>
+      <sub>First PR successfully merged</sub>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <img src="./assets/Badges/GSSoC_2026/gssoc-badge-getting_started.webp" width="70px" alt="Getting Started"/><br/>
+      <strong>Getting Started</strong><br/>
+      <sub>Completed contributor setup</sub>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <img src="./assets/Badges/GSSoC_2026/gssoc-badge-discord_verified.webp" width="70px" alt="Discord Verified"/><br/>
+      <strong>Discord Verified</strong><br/>
+      <sub>Verified community member</sub>
+    </td>
+  </tr>
+</table>
+<table align="center">
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <img src="./assets/Badges/GSSoC_2026/gssoc-badge-profile_complete.webp" width="70px" alt="Profile Complete"/><br/>
+      <strong>Profile Complete</strong><br/>
+      <sub>Fully set up contributor bio</sub>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <img src="./assets/Badges/GSSoC_2026/gssoc-badge-role_contributor.webp" width="70px" alt="Role: Contributor"/><br/>
+      <strong>Role: Contributor</strong><br/>
+      <sub>Assigned official role</sub>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <img src="./assets/Badges/GSSoC_2026/contributor.webp" width="70px" alt="Contributor"/><br/>
+      <strong>Contributor</strong><br/>
+      <sub>Recognized open-source participant</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ===================== ELUSoC 2026 ===================== -->
+<h4><img src="./assets/icons/pickaxe-left.svg" width="20" valign="middle"/>&nbsp; 𝐄𝐋𝐔 𝐒𝐮𝐦𝐦𝐞𝐫 𝐨𝐟 𝐂𝐨𝐝𝐞 𝟐𝟎𝟐𝟔 (𝐄𝐋𝐔𝐒𝐨𝐂 '𝟐𝟔) &nbsp;<img src="./assets/icons/pickaxe-right.svg" width="20" valign="middle"/></h4>
+<img src="https://img.shields.io/badge/ELUSoC'26-Tier%20Progression-5865F2?style=flat-square&logo=github&logoColor=white"/>
+
+<br/><br/>
+<p><em>Tier Progression: From Spawnling to Repo Legend</em></p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%" valign="top">
+      <img src="./assets/Badges/ELUSoC_2026/spawnling.webp" width="70px" alt="Spawnling"/><br/>
+      <strong>Spawnling</strong><br/>
+      <sub>Tier 1 • Commenced journey</sub>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <img src="./assets/Badges/ELUSoC_2026/stone_coder.webp" width="70px" alt="Stone Coder"/><br/>
+      <strong>Stone Coder</strong><br/>
+      <sub>Tier 2 • Foundational commits</sub>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <img src="./assets/Badges/ELUSoC_2026/iron_developer.webp" width="70px" alt="Iron Developer"/><br/>
+      <strong>Iron Developer</strong><br/>
+      <sub>Tier 3 • Core feature builder</sub>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <img src="./assets/Badges/ELUSoC_2026/gold_engineer.webp" width="70px" alt="Gold Engineer"/><br/>
+      <strong>Gold Engineer</strong><br/>
+      <sub>Tier 4 • Advanced architecture</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%" valign="top">
+      <img src="./assets/Badges/ELUSoC_2026/diamond_architect.webp" width="70px" alt="Diamond Architect"/><br/>
+      <strong>Diamond Architect</strong><br/>
+      <sub>Tier 5 • High-value system design</sub>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <img src="./assets/Badges/ELUSoC_2026/netherite_champion.webp" width="70px" alt="Netherite Champion"/><br/>
+      <strong>Netherite Champion</strong><br/>
+      <sub>Tier 6 • Peak milestone conqueror</sub>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <img src="./assets/Badges/ELUSoC_2026/end_conqueror.webp" width="70px" alt="End Conqueror"/><br/>
+      <strong>End Conqueror</strong><br/>
+      <sub>Tier 7 • Conquered complex tasks</sub>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <img src="./assets/Badges/ELUSoC_2026/repo_legend.webp" width="70px" alt="Repo Legend"/><br/>
+      <strong>Repo Legend</strong><br/>
+      <sub>Tier 8 • Codebase legend tier</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ===================== ECSoC 2026 ===================== -->
+<h4><img src="./assets/icons/zap-left.svg" width="20" valign="middle"/>&nbsp; 𝐄𝐂 𝐒𝐮𝐦𝐦𝐞𝐫 𝐨𝐟 𝐂𝐨𝐝𝐞 𝟐𝟎𝟐𝟔 (𝐄𝐂𝐒𝐨𝐂 '𝟐𝟔) &nbsp;<img src="./assets/icons/zap-right.svg" width="20" valign="middle"/></h4>
+<img src="https://img.shields.io/badge/ECSoC'26-Mastery%20Tiers-10B981?style=flat-square&logo=github&logoColor=white"/>
+
+<br/><br/>
+<p><em>Mastery Tiers: From Beginner to Master</em></p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <img src="./assets/Badges/ECSoC_2026/Beginner.webp" width="70px" alt="Beginner"/><br/>
+      <strong>Beginner</strong><br/>
+      <sub>Tier 1 • Initial contributions</sub>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <img src="./assets/Badges/ECSoC_2026/Rookie.webp" width="70px" alt="Rookie"/><br/>
+      <strong>Rookie</strong><br/>
+      <sub>Tier 2 • Active early builder</sub>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <img src="./assets/Badges/ECSoC_2026/Contributor.webp" width="70px" alt="Contributor"/><br/>
+      <strong>Contributor</strong><br/>
+      <sub>Tier 3 • Steady merged PRs</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <img src="./assets/Badges/ECSoC_2026/Hustler.webp" width="70px" alt="Hustler"/><br/>
+      <strong>Hustler</strong><br/>
+      <sub>Tier 4 • High-drive contributor</sub>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <img src="./assets/Badges/ECSoC_2026/Elite.webp" width="70px" alt="Elite"/><br/>
+      <strong>Elite</strong><br/>
+      <sub>Tier 5 • Advanced milestone achiever</sub>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <img src="./assets/Badges/ECSoC_2026/Master.webp" width="70px" alt="Master"/><br/>
+      <strong>Master</strong><br/>
+      <sub>Tier 6 • Complete mastery rank</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ===================== NSoC 2026 ===================== -->
+<h4><img src="./assets/icons/rocket-left.svg" width="20" valign="middle"/>&nbsp; 𝐍𝐞𝐱𝐮𝐬 𝐒𝐮𝐦𝐦𝐞𝐫 𝐨𝐟 𝐂𝐨𝐝𝐞 𝟐𝟎𝟐𝟔 (𝐍𝐒𝐨𝐂 '𝟐𝟔) &nbsp;<img src="./assets/icons/rocket-right.svg" width="20" valign="middle"/></h4>
+<img src="https://img.shields.io/badge/NSoC'26-Contributor%20Milestones-06B6D4?style=flat-square&logo=github&logoColor=white"/>
+
+<br/><br/>
+<p><em>Contributor Milestones</em></p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <img src="./assets/Badges/NSoC_2026/NSOC_1st_Badge.webp" width="70px" alt="NSoC 1st Badge"/><br/>
+      <strong>1st Badge</strong><br/>
+      <sub>First program milestone unlocked</sub>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <img src="./assets/Badges/NSoC_2026/NSOC_Contributor.webp" width="70px" alt="NSoC Contributor"/><br/>
+      <strong>Contributor</strong><br/>
+      <sub>Verified open-source contributor</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -177,7 +526,7 @@ Contributing, experimenting, collaborating and building for the community.
 
 <div align="center">
 
-## 🛠️ Tech Stack 🛠️
+<h2 align="center"><img src="./assets/icons/stack-left.svg" width="26" valign="middle"/>&nbsp; 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤 &nbsp;<img src="./assets/icons/stack-right.svg" width="26" valign="middle"/></h2>
 
 *Technologies I use to turn ideas into working systems.*
 
@@ -185,33 +534,41 @@ Contributing, experimenting, collaborating and building for the community.
 
 <table align="center">
 <tr>
-<td align="center" width="220"><strong>Category</strong></td>
+<td align="center" width="240"><strong>Category</strong></td>
 <td align="center"><strong>Technologies</strong></td>
 </tr>
 
 <tr>
-<td align="center">👨‍💻 <strong>Languages</strong></td>
+<td align="center">
+  <img src="./assets/icons/tech-lang.svg" width="20" valign="middle"/>&nbsp; <strong>Languages</strong>
+</td>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript"/>
 </td>
 </tr>
 
 <tr>
-<td align="center">🎨 <strong>Frontend</strong></td>
+<td align="center">
+  <img src="./assets/icons/tech-frontend.svg" width="20" valign="middle"/>&nbsp; <strong>Frontend</strong>
+</td>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,vite,threejs"/>
 </td>
 </tr>
 
 <tr>
-<td align="center">⚙️ <strong>Backend</strong></td>
+<td align="center">
+  <img src="./assets/icons/tech-backend.svg" width="20" valign="middle"/>&nbsp; <strong>Backend</strong>
+</td>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,nextjs"/>
 </td>
 </tr>
 
 <tr>
-<td align="center">🤖 <strong>AI / ML / Data</strong></td>
+<td align="center">
+  <img src="./assets/icons/tech-ai.svg" width="20" valign="middle"/>&nbsp; <strong>AI / ML / Data</strong>
+</td>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn"/>
 <br/><br/>
@@ -223,14 +580,18 @@ Contributing, experimenting, collaborating and building for the community.
 </tr>
 
 <tr>
-<td align="center">🗄️ <strong>Databases</strong></td>
+<td align="center">
+  <img src="./assets/icons/tech-db.svg" width="20" valign="middle"/>&nbsp; <strong>Databases</strong>
+</td>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,supabase,firebase,prisma"/>
 </td>
 </tr>
 
 <tr>
-<td align="center">☁️ <strong>Cloud & Deployment</strong></td>
+<td align="center">
+  <img src="./assets/icons/tech-cloud.svg" width="20" valign="middle"/>&nbsp; <strong>Cloud & Deployment</strong>
+</td>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,vercel,netlify"/>
 <br/><br/>
@@ -240,14 +601,18 @@ Contributing, experimenting, collaborating and building for the community.
 </tr>
 
 <tr>
-<td align="center">🔧 <strong>DevOps & Tools</strong></td>
+<td align="center">
+  <img src="./assets/icons/tech-devops.svg" width="20" valign="middle"/>&nbsp; <strong>DevOps & Tools</strong>
+</td>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,npm,postman,bash,powershell"/>
 </td>
 </tr>
 
 <tr>
-<td align="center">🎨 <strong>Design & Productivity</strong></td>
+<td align="center">
+  <img src="./assets/icons/tech-design.svg" width="20" valign="middle"/>&nbsp; <strong>Design & Productivity</strong>
+</td>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=figma,notion"/>
 <br/><br/>
@@ -263,7 +628,7 @@ Contributing, experimenting, collaborating and building for the community.
 
 <div align="center">
 
-## 📊 GitHub Analytics 📊
+<h2 align="center"><img src="./assets/icons/analytics-left.svg" width="26" valign="middle"/>&nbsp; 𝐆𝐢𝐭𝐇𝐮𝐛 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬 &nbsp;<img src="./assets/icons/analytics-right.svg" width="26" valign="middle"/></h2>
 
 <br/>
 
@@ -315,7 +680,7 @@ Contributing, experimenting, collaborating and building for the community.
 
 <div align="center">
 
-## 🌐 Let's Connect 🌐
+<h2 align="center"><img src="./assets/icons/connect-left.svg" width="26" valign="middle"/>&nbsp; 𝐋𝐞𝐭'𝐬 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 &nbsp;<img src="./assets/icons/connect-right.svg" width="26" valign="middle"/></h2>
 
 <a href="https://linkedin.com/in/babinbid123">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -339,11 +704,11 @@ Contributing, experimenting, collaborating and building for the community.
 
 <br/><br/>
 
-### ` 🌟 Code • Create • Contribute • Repeat 🌟`
+<h3 align="center"><img src="./assets/icons/sparkle-left.svg" width="20" valign="middle"/>&nbsp; <code>𝐂𝐨𝐝𝐞 • 𝐂𝐫𝐞𝐚𝐭𝐞 • 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐞 • 𝐑𝐞𝐩𝐞𝐚𝐭</code> &nbsp;<img src="./assets/icons/sparkle-right.svg" width="20" valign="middle"/></h3>
 
 <p>
   
-  **👋 Open to collaboration, open-source contributions, and building impactful projects. 🚀**
+  **<img src="./assets/icons/rocket-left.svg" width="18" valign="middle"/>&nbsp; Open to collaboration, open-source contributions, and building impactful projects. &nbsp;<img src="./assets/icons/rocket-right.svg" width="18" valign="middle"/>**
 
 </p>
 
@@ -351,11 +716,11 @@ Contributing, experimenting, collaborating and building for the community.
 
 </div>
 
-<!-- 🌊 Closing Footer Wave -->
+<!-- Closing Footer Wave -->
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:06B6D4,50:1D4ED8,100:0F172A&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:064E3B,25:10B981,50:06B6D4,75:1D4ED8,100:0F172A&animation=fadeIn"
     alt="Babin Footer Wave"
   />
 </p>
