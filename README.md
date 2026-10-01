@@ -260,13 +260,14 @@ Contributing, experimenting, collaborating and building for the community.
 <br/>
 
 <!-- Streak Card with IST Timezone Enabled -->
-<img src="https://streak-stats.demolab.com/?user=Babin123456&theme=github_dark&hide_border=true&timezone=Asia/Kolkata" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=Babin123456&theme=github-dark-blue&hide_border=true&background=0D1117&ring=06B6D4&fire=1D4ED8&currStreakLabel=06B6D4&sideLabels=58A6FF&dates=8B949E&timezone=Asia%2FKolkata" alt="GitHub Streak" />
 
 <br/><br/>
 
 <!-- GitHub Stats & Top Languages Cards -->
-<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Babin123456&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true&v=4" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Babin123456&layout=compact&langs_count=6&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=true&v=4" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Babin123456&show_icons=true&bg_color=0D1117&title_color=06B6D4&text_color=C9D1D9&icon_color=3B82F6&hide_border=true&include_all_commits=true&count_private=true&v=5" alt="GitHub Stats" />
+
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Babin123456&layout=compact&langs_count=8&bg_color=0D1117&title_color=06B6D4&text_color=C9D1D9&hide_border=true&v=5" alt="Top Languages" />
 
 <br/><br/>
 
