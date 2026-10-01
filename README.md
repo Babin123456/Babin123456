@@ -35,7 +35,7 @@
 
 <div align="center">
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me 👨‍💻
 
 ### `> whoami`
 
@@ -81,13 +81,13 @@ Currently focused on:
 
 <div align="center">
 
-### ⚡ My Developer Journey
+### ⚡ My Developer Journey ⚡
 
 `Think` → `Learn` → `Build` → `Break` → `Debug` → `Improve` → `Repeat 🔁`
 
 <br>
 
-### 🎯 My Mission
+### 🎯 My Mission 🎯
 
 **Build. Innovate. Contribute. Impact.**
 
@@ -103,7 +103,7 @@ and continuously exploring what technology can make possible.
 
 <div align="center">
 
-## 🧠 What I Build
+## 🧠 What I Build 🧠
 
 </div>
 
@@ -157,7 +157,7 @@ Contributing, experimenting, collaborating and building for the community.
 
 <div align="center">
 
-## 🏆 Open Source & Achievements
+## 🏆 Open Source & Achievements 🏆
 
 ### Building in Public • Learning in Public • Contributing in Public
 
@@ -173,7 +173,7 @@ Contributing, experimenting, collaborating and building for the community.
 
 <div align="center">
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack 🛠️
 
 *Technologies I use to turn ideas into working systems.*
 
@@ -259,24 +259,51 @@ Contributing, experimenting, collaborating and building for the community.
 
 <div align="center">
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics 📊
 
 <br/>
 
-<!-- Streak Card with IST Timezone Enabled -->
-<img src="https://streak-stats.demolab.com/?user=Babin123456&theme=github-dark-blue&hide_border=true&background=0D1117&ring=06B6D4&fire=1D4ED8&currStreakLabel=06B6D4&sideLabels=58A6FF&dates=8B949E&timezone=Asia%2FKolkata" alt="GitHub Streak" />
+<!-- ===================== STREAK ===================== -->
+
+<img src="https://streak-stats.demolab.com/?user=Babin123456&theme=github-dark-blue&hide_border=true&background=0D1117&ring=06B6D4&fire=10B981&currStreakLabel=10B981&sideLabels=10B981&dates=8B949E&timezone=Asia%2FKolkata" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<!-- GitHub Stats & Top Languages Cards -->
-<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Babin123456&show_icons=true&bg_color=0D1117&title_color=06B6D4&text_color=C9D1D9&icon_color=3B82F6&hide_border=true&include_all_commits=true&count_private=true&v=5" alt="GitHub Stats" />
+<!-- ===================== STATS + LANGUAGES ===================== -->
 
-<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Babin123456&layout=compact&langs_count=8&bg_color=0D1117&title_color=06B6D4&text_color=C9D1D9&hide_border=true&v=5" alt="Top Languages" />
+<table align="center">
+<tr>
+
+<td width="50%" align="center" valign="middle">
+
+<img
+  width="100%"
+  height="195"
+  src="https://github-readme-stats-eight-theta.vercel.app/api?username=Babin123456&show_icons=true&bg_color=0D1117&title_color=06B6D4&text_color=C9D1D9&icon_color=10B981&hide_border=true&include_all_commits=true&count_private=true&v=5"
+  alt="GitHub Stats"
+/>
+
+</td>
+
+<td width="50%" align="center" valign="middle">
+
+<img
+  width="100%"
+  height="195"
+  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Babin123456&layout=compact&langs_count=8&bg_color=0D1117&title_color=10B981&text_color=C9D1D9&hide_border=true&v=5"
+  alt="Top Languages"
+/>
+
+</td>
+
+</tr>
+</table>
 
 <br/><br/>
 
-<!-- Stable Activity Summary Graph -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Babin123456&theme=github_dark" alt="Activity Summary" />
+<!-- ===================== ACTIVITY ===================== -->
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Babin123456&theme=github_dark" alt="Activity Summary"/>
 
 </div>
 
@@ -284,7 +311,7 @@ Contributing, experimenting, collaborating and building for the community.
 
 <div align="center">
 
-## 🌐 Let's Connect
+## 🌐 Let's Connect 🌐
 
 <a href="https://linkedin.com/in/babinbid123">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -308,11 +335,13 @@ Contributing, experimenting, collaborating and building for the community.
 
 <br/><br/>
 
-### `Code • Create • Contribute • Repeat 🚀`
+### ` 🌟 Code • Create • Contribute • Repeat 🌟`
 
-### Thanks for visiting my profile! 
+<p>
+  
+  **👋 Open to collaboration, open-source contributions, and building impactful projects. 🚀**
 
-👋 **Open to collaboration, open-source contributions, and building impactful projects. 🚀**
+</p>
 
 <img src="./assets/Thank_you_with_confetti.svg" width="300"/>
 
