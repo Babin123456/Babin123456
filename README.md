@@ -179,21 +179,13 @@ Contributing, experimenting, collaborating and building for the community.
 <h3><img src="./assets/icons/medal-left.svg" width="22" valign="middle"/>&nbsp; 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥 𝐆𝐢𝐭𝐇𝐮𝐛 𝐀𝐜𝐡𝐢𝐞𝐯𝐞𝐦𝐞𝐧𝐭𝐬 &nbsp;<img src="./assets/icons/medal-right.svg" width="22" valign="middle"/></h3>
 
 <p align="center">
-  <a href="https://github.com/Babin123456?tab=achievements" title="Pull Shark (x4) - Merged multiple PRs">
-    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="75px" alt="Pull Shark (x4)"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/Babin123456?tab=achievements" title="Quickdraw - Closed issue/PR within 5m">
-    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="75px" alt="Quickdraw"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/Babin123456?tab=achievements" title="Pair Extraordinaire - Co-authored commits on PR">
-    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="75px" alt="Pair Extraordinaire"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/Babin123456?tab=achievements" title="YOLO - Merged PR without review">
-    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="75px" alt="YOLO"/>
-  </a>
+  <span style="display: inline-block; text-align: center; margin: 8px 12px 14px 12px; vertical-align: top;"><a href="https://github.com/Babin123456?tab=achievements"><img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="72px" alt="Pull Shark (x4)"/></a><br/><strong>Pull Shark (x4)</strong><br/><sub><em>Merged multiple PRs</em></sub></span>
+  <span style="display: inline-block; text-align: center; margin: 8px 12px 14px 12px; vertical-align: top;"><a href="https://github.com/Babin123456?tab=achievements"><img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="72px" alt="Quickdraw"/></a><br/><strong>Quickdraw</strong><br/><sub><em>Closed issue/PR in 5m</em></sub></span>
+  <span style="display: inline-block; text-align: center; margin: 8px 12px 14px 12px; vertical-align: top;"><a href="https://github.com/Babin123456?tab=achievements"><img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="72px" alt="Pair Extraordinaire"/></a><br/><strong>Pair Extraordinaire</strong><br/><sub><em>Co-authored PR commits</em></sub></span>
+  <span style="display: inline-block; text-align: center; margin: 8px 12px 14px 12px; vertical-align: top;"><a href="https://github.com/Babin123456?tab=achievements"><img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="72px" alt="YOLO"/></a><br/><strong>YOLO</strong><br/><sub><em>Merged PR without review</em></sub></span>
 </p>
 
-<sub><em>Hover over badges for details • Click to view verified achievements on GitHub</em></sub>
+<sub><em>Click badges to view verified achievements on GitHub</em></sub>
 
 <br/><br/>
 
@@ -214,13 +206,13 @@ Contributing, experimenting, collaborating and building for the community.
 <p><strong><img src="./assets/icons/trophy-left.svg" width="18" valign="middle"/>&nbsp; 𝐇𝐚𝐥𝐥 𝐨𝐟 𝐅𝐚𝐦𝐞 & 𝐓𝐨𝐩 𝐑𝐚𝐧𝐤𝐬 &nbsp;<img src="./assets/icons/trophy-right.svg" width="18" valign="middle"/></strong></p>
 
 <p align="center">
-  <img src="./assets/Badges/GSSoC_2026/gssoc-badge-gssoc_champion.webp" width="70px" title="GSSoC Champion - Grand winner & top rank" alt="GSSoC Champion"/>&nbsp;&nbsp;
-  <img src="./assets/Badges/GSSoC_2026/gssoc-badge-legend.webp" width="70px" title="Legend - Legendary contributor status" alt="Legend"/>&nbsp;&nbsp;
-  <img src="./assets/Badges/GSSoC_2026/gssoc-badge-top_10.webp" width="70px" title="Top 10 - Ranked in Top 10 leaderboard" alt="Top 10"/>&nbsp;&nbsp;
-  <img src="./assets/Badges/GSSoC_2026/gssoc-badge-top_50.webp" width="70px" title="Top 50 - Ranked in Top 50 leaderboard" alt="Top 50"/>&nbsp;&nbsp;
-  <img src="./assets/Badges/GSSoC_2026/gssoc-badge-top_100.webp" width="70px" title="Top 100 - Ranked in Top 100 leaderboard" alt="Top 100"/>&nbsp;&nbsp;
-  <img src="./assets/Badges/GSSoC_2026/gssoc-badge-elite.webp" width="70px" title="Elite - Elite merged PR volume" alt="Elite"/>&nbsp;&nbsp;
-  <img src="./assets/Badges/GSSoC_2026/gssoc-badge-unstoppable.webp" width="70px" title="Unstoppable - Relentless contribution velocity" alt="Unstoppable"/>
+  <span style="display: inline-block; text-align: center; margin: 8px 10px 14px 10px; vertical-align: top;"><img src="./assets/Badges/GSSoC_2026/gssoc-badge-gssoc_champion.webp" width="65px" alt="Champion"/><br/><sub><em>Champion</em></sub></span>
+  <span style="display: inline-block; text-align: center; margin: 8px 10px 14px 10px; vertical-align: top;"><img src="./assets/Badges/GSSoC_2026/gssoc-badge-legend.webp" width="65px" alt="Legend"/><br/><sub><em>Legend</em></sub></span>
+  <span style="display: inline-block; text-align: center; margin: 8px 10px 14px 10px; vertical-align: top;"><img src="./assets/Badges/GSSoC_2026/gssoc-badge-top_10.webp" width="65px" alt="Top 10"/><br/><sub><em>Top 10</em></sub></span>
+  <span style="display: inline-block; text-align: center; margin: 8px 10px 14px 10px; vertical-align: top;"><img src="./assets/Badges/GSSoC_2026/gssoc-badge-top_50.webp" width="65px" alt="Top 50"/><br/><sub><em>Top 50</em></sub></span>
+  <span style="display: inline-block; text-align: center; margin: 8px 10px 14px 10px; vertical-align: top;"><img src="./assets/Badges/GSSoC_2026/gssoc-badge-top_100.webp" width="65px" alt="Top 100"/><br/><sub><em>Top 100</em></sub></span>
+  <span style="display: inline-block; text-align: center; margin: 8px 10px 14px 10px; vertical-align: top;"><img src="./assets/Badges/GSSoC_2026/gssoc-badge-elite.webp" width="65px" alt="Elite"/><br/><sub><em>Elite</em></sub></span>
+  <span style="display: inline-block; text-align: center; margin: 8px 10px 14px 10px; vertical-align: top;"><img src="./assets/Badges/GSSoC_2026/gssoc-badge-unstoppable.webp" width="65px" alt="Unstoppable"/><br/><sub><em>Unstoppable</em></sub></span>
 </p>
 
 <br/>
@@ -228,14 +220,14 @@ Contributing, experimenting, collaborating and building for the community.
 <p><strong><img src="./assets/icons/zap-left.svg" width="18" valign="middle"/>&nbsp; 𝐒𝐭𝐫𝐞𝐚𝐤𝐬 & 𝐂𝐨𝐧𝐬𝐢𝐬𝐭𝐞𝐧𝐜𝐲 &nbsp;<img src="./assets/icons/zap-right.svg" width="18" valign="middle"/></strong></p>
 
 <p align="center">
-  <img src="./assets/Badges/GSSoC_2026/gssoc-badge-power_contributor.webp" width="70px" title="Power Contributor - High-impact feature builder" alt="Power Contributor"/>&nbsp;&nbsp;
-  <img src="./assets/Badges/GSSoC_2026/gssoc-badge-rising_star.webp" width="70px" title="Rising Star - Fastest climbing contributor" alt="Rising Star"/>&nbsp;&nbsp;
-  <img src="./assets/Badges/GSSoC_2026/gssoc-badge-prolific.webp" width="70px" title="Prolific - Extensive merged PR volume" alt="Prolific"/>&nbsp;&nbsp;
-  <img src="./assets/Badges/GSSoC_2026/gssoc-badge-consistent.webp" width="70px" title="Consistent - Daily active contribution streak" alt="Consistent"/>&nbsp;&nbsp;
-  <img src="./assets/Badges/GSSoC_2026/gssoc-badge-on_fire.webp" width="70px" title="On Fire - High-intensity submission streak" alt="On Fire"/>&nbsp;&nbsp;
-  <img src="./assets/Badges/GSSoC_2026/gssoc-badge-on_a_roll.webp" width="70px" title="On a Roll - Consecutive accepted PRs" alt="On a Roll"/>&nbsp;&nbsp;
-  <img src="./assets/Badges/GSSoC_2026/gssoc-badge-building_momentum.webp" width="70px" title="Building Momentum - Accelerating project activity" alt="Building Momentum"/>&nbsp;&nbsp;
-  <img src="./assets/Badges/GSSoC_2026/gssoc-badge-point_scorer.webp" width="70px" title="Point Scorer - Scored high task points" alt="Point Scorer"/>
+  <span style="display: inline-block; text-align: center; margin: 8px 10px 14px 10px; vertical-align: top;"><img src="./assets/Badges/GSSoC_2026/gssoc-badge-power_contributor.webp" width="65px" alt="Power"/><br/><sub><em>Power</em></sub></span>
+  <span style="display: inline-block; text-align: center; margin: 8px 10px 14px 10px; vertical-align: top;"><img src="./assets/Badges/GSSoC_2026/gssoc-badge-rising_star.webp" width="65px" alt="Rising Star"/><br/><sub><em>Rising Star</em></sub></span>
+  <span style="display: inline-block; text-align: center; margin: 8px 10px 14px 10px; vertical-align: top;"><img src="./assets/Badges/GSSoC_2026/gssoc-badge-prolific.webp" width="65px" alt="Prolific"/><br/><sub><em>Prolific</em></sub></span>
+  <span style="display: inline-block; text-align: center; margin: 8px 10px 14px 10px; vertical-align: top;"><img src="./assets/Badges/GSSoC_2026/gssoc-badge-consistent.webp" width="65px" alt="Consistent"/><br/><sub><em>Consistent</em></sub></span>
+  <span style="display: inline-block; text-align: center; margin: 8px 10px 14px 10px; vertical-align: top;"><img src="./assets/Badges/GSSoC_2026/gssoc-badge-on_fire.webp" width="65px" alt="On Fire"/><br/><sub><em>On Fire</em></sub></span>
+  <span style="display: inline-block; text-align: center; margin: 8px 10px 14px 10px; vertical-align: top;"><img src="./assets/Badges/GSSoC_2026/gssoc-badge-on_a_roll.webp" width="65px" alt="On a Roll"/><br/><sub><em>On a Roll</em></sub></span>
+  <span style="display: inline-block; text-align: center; margin: 8px 10px 14px 10px; vertical-align: top;"><img src="./assets/Badges/GSSoC_2026/gssoc-badge-building_momentum.webp" width="65px" alt="Momentum"/><br/><sub><em>Momentum</em></sub></span>
+  <span style="display: inline-block; text-align: center; margin: 8px 10px 14px 10px; vertical-align: top;"><img src="./assets/Badges/GSSoC_2026/gssoc-badge-point_scorer.webp" width="65px" alt="Point Scorer"/><br/><sub><em>Point Scorer</em></sub></span>
 </p>
 
 <br/>
@@ -243,10 +235,10 @@ Contributing, experimenting, collaborating and building for the community.
 <p><strong><img src="./assets/icons/sparkle-left.svg" width="18" valign="middle"/>&nbsp; 𝐒𝐩𝐞𝐜𝐢𝐚𝐥𝐢𝐳𝐞𝐝 𝐓𝐫𝐚𝐜𝐤𝐬 & 𝐁𝐨𝐮𝐧𝐭𝐢𝐞𝐬 &nbsp;<img src="./assets/icons/sparkle-right.svg" width="18" valign="middle"/></strong></p>
 
 <p align="center">
-  <img src="./assets/Badges/GSSoC_2026/gssoc-badge-bounty_master.webp" width="70px" title="Bounty Master - Solved complex bounty issues" alt="Bounty Master"/>&nbsp;&nbsp;
-  <img src="./assets/Badges/GSSoC_2026/gssoc-badge-bounty_hunter.webp" width="70px" title="Bounty Hunter - Hunted & fixed bounty tasks" alt="Bounty Hunter"/>&nbsp;&nbsp;
-  <img src="./assets/Badges/GSSoC_2026/ai.webp" width="70px" title="AI Track - Built AI/ML models & features" alt="AI Track"/>&nbsp;&nbsp;
-  <img src="./assets/Badges/GSSoC_2026/open.webp" width="70px" title="Open Source - Core open-source champion" alt="Open Source"/>
+  <span style="display: inline-block; text-align: center; margin: 8px 10px 14px 10px; vertical-align: top;"><img src="./assets/Badges/GSSoC_2026/gssoc-badge-bounty_master.webp" width="65px" alt="Bounty Master"/><br/><sub><em>Bounty Master</em></sub></span>
+  <span style="display: inline-block; text-align: center; margin: 8px 10px 14px 10px; vertical-align: top;"><img src="./assets/Badges/GSSoC_2026/gssoc-badge-bounty_hunter.webp" width="65px" alt="Bounty Hunter"/><br/><sub><em>Bounty Hunter</em></sub></span>
+  <span style="display: inline-block; text-align: center; margin: 8px 10px 14px 10px; vertical-align: top;"><img src="./assets/Badges/GSSoC_2026/ai.webp" width="65px" alt="AI Track"/><br/><sub><em>AI Track</em></sub></span>
+  <span style="display: inline-block; text-align: center; margin: 8px 10px 14px 10px; vertical-align: top;"><img src="./assets/Badges/GSSoC_2026/open.webp" width="65px" alt="Open Source"/><br/><sub><em>Open Source</em></sub></span>
 </p>
 
 <br/>
@@ -254,13 +246,13 @@ Contributing, experimenting, collaborating and building for the community.
 <p><strong><img src="./assets/icons/rocket-left.svg" width="18" valign="middle"/>&nbsp; 𝐌𝐢𝐥𝐞𝐬𝐭𝐨𝐧𝐞𝐬 & 𝐎𝐧𝐛𝐨𝐚𝐫𝐝𝐢𝐧𝐠 &nbsp;<img src="./assets/icons/rocket-right.svg" width="18" valign="middle"/></strong></p>
 
 <p align="center">
-  <img src="./assets/Badges/GSSoC_2026/gssoc-badge-week_one.webp" width="70px" title="Week One - Active in initial program week" alt="Week One"/>&nbsp;&nbsp;
-  <img src="./assets/Badges/GSSoC_2026/gssoc-badge-first_steps.webp" width="70px" title="First Steps - First PR successfully merged" alt="First Steps"/>&nbsp;&nbsp;
-  <img src="./assets/Badges/GSSoC_2026/gssoc-badge-getting_started.webp" width="70px" title="Getting Started - Completed contributor setup" alt="Getting Started"/>&nbsp;&nbsp;
-  <img src="./assets/Badges/GSSoC_2026/gssoc-badge-discord_verified.webp" width="70px" title="Discord Verified - Verified community member" alt="Discord Verified"/>&nbsp;&nbsp;
-  <img src="./assets/Badges/GSSoC_2026/gssoc-badge-profile_complete.webp" width="70px" title="Profile Complete - Fully set up contributor bio" alt="Profile Complete"/>&nbsp;&nbsp;
-  <img src="./assets/Badges/GSSoC_2026/gssoc-badge-role_contributor.webp" width="70px" title="Role: Contributor - Assigned official role" alt="Role: Contributor"/>&nbsp;&nbsp;
-  <img src="./assets/Badges/GSSoC_2026/contributor.webp" width="70px" title="Contributor - Recognized open-source participant" alt="Contributor"/>
+  <span style="display: inline-block; text-align: center; margin: 8px 10px 14px 10px; vertical-align: top;"><img src="./assets/Badges/GSSoC_2026/gssoc-badge-week_one.webp" width="65px" alt="Week One"/><br/><sub><em>Week One</em></sub></span>
+  <span style="display: inline-block; text-align: center; margin: 8px 10px 14px 10px; vertical-align: top;"><img src="./assets/Badges/GSSoC_2026/gssoc-badge-first_steps.webp" width="65px" alt="First Steps"/><br/><sub><em>First Steps</em></sub></span>
+  <span style="display: inline-block; text-align: center; margin: 8px 10px 14px 10px; vertical-align: top;"><img src="./assets/Badges/GSSoC_2026/gssoc-badge-getting_started.webp" width="65px" alt="Getting Started"/><br/><sub><em>Getting Started</em></sub></span>
+  <span style="display: inline-block; text-align: center; margin: 8px 10px 14px 10px; vertical-align: top;"><img src="./assets/Badges/GSSoC_2026/gssoc-badge-discord_verified.webp" width="65px" alt="Discord Verified"/><br/><sub><em>Discord Verified</em></sub></span>
+  <span style="display: inline-block; text-align: center; margin: 8px 10px 14px 10px; vertical-align: top;"><img src="./assets/Badges/GSSoC_2026/gssoc-badge-profile_complete.webp" width="65px" alt="Profile Complete"/><br/><sub><em>Profile Complete</em></sub></span>
+  <span style="display: inline-block; text-align: center; margin: 8px 10px 14px 10px; vertical-align: top;"><img src="./assets/Badges/GSSoC_2026/gssoc-badge-role_contributor.webp" width="65px" alt="Role Contributor"/><br/><sub><em>Role Contributor</em></sub></span>
+  <span style="display: inline-block; text-align: center; margin: 8px 10px 14px 10px; vertical-align: top;"><img src="./assets/Badges/GSSoC_2026/contributor.webp" width="65px" alt="Contributor"/><br/><sub><em>Contributor</em></sub></span>
 </p>
 
 <sub><em><a href="https://gssoc.girlscript.org/profile/77dcd93c-f754-4bb4-9516-16a2cf29988c" style="text-decoration: none;">View verified profile on GSSoC</a></em></sub>
@@ -277,14 +269,14 @@ Contributing, experimenting, collaborating and building for the community.
 <p><em>Tier Progression: From Spawnling to Repo Legend</em></p>
 
 <p align="center">
-  <img src="./assets/Badges/ELUSoC_2026/spawnling.webp" width="70px" title="Spawnling - Tier 1 • Commenced journey" alt="Spawnling"/>&nbsp;&nbsp;
-  <img src="./assets/Badges/ELUSoC_2026/stone_coder.webp" width="70px" title="Stone Coder - Tier 2 • Foundational commits" alt="Stone Coder"/>&nbsp;&nbsp;
-  <img src="./assets/Badges/ELUSoC_2026/iron_developer.webp" width="70px" title="Iron Developer - Tier 3 • Core feature builder" alt="Iron Developer"/>&nbsp;&nbsp;
-  <img src="./assets/Badges/ELUSoC_2026/gold_engineer.webp" width="70px" title="Gold Engineer - Tier 4 • Advanced architecture" alt="Gold Engineer"/>&nbsp;&nbsp;
-  <img src="./assets/Badges/ELUSoC_2026/diamond_architect.webp" width="70px" title="Diamond Architect - Tier 5 • High-value system design" alt="Diamond Architect"/>&nbsp;&nbsp;
-  <img src="./assets/Badges/ELUSoC_2026/netherite_champion.webp" width="70px" title="Netherite Champion - Tier 6 • Peak milestone conqueror" alt="Netherite Champion"/>&nbsp;&nbsp;
-  <img src="./assets/Badges/ELUSoC_2026/end_conqueror.webp" width="70px" title="End Conqueror - Tier 7 • Conquered complex tasks" alt="End Conqueror"/>&nbsp;&nbsp;
-  <img src="./assets/Badges/ELUSoC_2026/repo_legend.webp" width="70px" title="Repo Legend - Tier 8 • Codebase legend tier" alt="Repo Legend"/>
+  <span style="display: inline-block; text-align: center; margin: 8px 10px 14px 10px; vertical-align: top;"><img src="./assets/Badges/ELUSoC_2026/spawnling.webp" width="65px" alt="Spawnling"/><br/><sub><em>Spawnling</em></sub></span>
+  <span style="display: inline-block; text-align: center; margin: 8px 10px 14px 10px; vertical-align: top;"><img src="./assets/Badges/ELUSoC_2026/stone_coder.webp" width="65px" alt="Stone Coder"/><br/><sub><em>Stone Coder</em></sub></span>
+  <span style="display: inline-block; text-align: center; margin: 8px 10px 14px 10px; vertical-align: top;"><img src="./assets/Badges/ELUSoC_2026/iron_developer.webp" width="65px" alt="Iron Dev"/><br/><sub><em>Iron Dev</em></sub></span>
+  <span style="display: inline-block; text-align: center; margin: 8px 10px 14px 10px; vertical-align: top;"><img src="./assets/Badges/ELUSoC_2026/gold_engineer.webp" width="65px" alt="Gold Eng"/><br/><sub><em>Gold Eng</em></sub></span>
+  <span style="display: inline-block; text-align: center; margin: 8px 10px 14px 10px; vertical-align: top;"><img src="./assets/Badges/ELUSoC_2026/diamond_architect.webp" width="65px" alt="Diamond Arch"/><br/><sub><em>Diamond Arch</em></sub></span>
+  <span style="display: inline-block; text-align: center; margin: 8px 10px 14px 10px; vertical-align: top;"><img src="./assets/Badges/ELUSoC_2026/netherite_champion.webp" width="65px" alt="Netherite Champ"/><br/><sub><em>Netherite Champ</em></sub></span>
+  <span style="display: inline-block; text-align: center; margin: 8px 10px 14px 10px; vertical-align: top;"><img src="./assets/Badges/ELUSoC_2026/end_conqueror.webp" width="65px" alt="End Conqueror"/><br/><sub><em>End Conqueror</em></sub></span>
+  <span style="display: inline-block; text-align: center; margin: 8px 10px 14px 10px; vertical-align: top;"><img src="./assets/Badges/ELUSoC_2026/repo_legend.webp" width="65px" alt="Repo Legend"/><br/><sub><em>Repo Legend</em></sub></span>
 </p>
 
 <sub><em><a href="https://www.edulinkup.dev/u/babin123?tab=elusoc" style="text-decoration: none;">View verified profile on ELUSoC</a></em></sub>
@@ -301,12 +293,12 @@ Contributing, experimenting, collaborating and building for the community.
 <p><em>Mastery Tiers: From Beginner to Master</em></p>
 
 <p align="center">
-  <img src="./assets/Badges/ECSoC_2026/Beginner.webp" width="70px" title="Beginner - Tier 1 • Initial contributions" alt="Beginner"/>&nbsp;&nbsp;
-  <img src="./assets/Badges/ECSoC_2026/Rookie.webp" width="70px" title="Rookie - Tier 2 • Active early builder" alt="Rookie"/>&nbsp;&nbsp;
-  <img src="./assets/Badges/ECSoC_2026/Contributor.webp" width="70px" title="Contributor - Tier 3 • Steady merged PRs" alt="Contributor"/>&nbsp;&nbsp;
-  <img src="./assets/Badges/ECSoC_2026/Hustler.webp" width="70px" title="Hustler - Tier 4 • High-drive contributor" alt="Hustler"/>&nbsp;&nbsp;
-  <img src="./assets/Badges/ECSoC_2026/Elite.webp" width="70px" title="Elite - Tier 5 • Advanced milestone achiever" alt="Elite"/>&nbsp;&nbsp;
-  <img src="./assets/Badges/ECSoC_2026/Master.webp" width="70px" title="Master - Tier 6 • Complete mastery rank" alt="Master"/>
+  <span style="display: inline-block; text-align: center; margin: 8px 10px 14px 10px; vertical-align: top;"><img src="./assets/Badges/ECSoC_2026/Beginner.webp" width="65px" alt="Beginner"/><br/><sub><em>Beginner</em></sub></span>
+  <span style="display: inline-block; text-align: center; margin: 8px 10px 14px 10px; vertical-align: top;"><img src="./assets/Badges/ECSoC_2026/Rookie.webp" width="65px" alt="Rookie"/><br/><sub><em>Rookie</em></sub></span>
+  <span style="display: inline-block; text-align: center; margin: 8px 10px 14px 10px; vertical-align: top;"><img src="./assets/Badges/ECSoC_2026/Contributor.webp" width="65px" alt="Contributor"/><br/><sub><em>Contributor</em></sub></span>
+  <span style="display: inline-block; text-align: center; margin: 8px 10px 14px 10px; vertical-align: top;"><img src="./assets/Badges/ECSoC_2026/Hustler.webp" width="65px" alt="Hustler"/><br/><sub><em>Hustler</em></sub></span>
+  <span style="display: inline-block; text-align: center; margin: 8px 10px 14px 10px; vertical-align: top;"><img src="./assets/Badges/ECSoC_2026/Elite.webp" width="65px" alt="Elite"/><br/><sub><em>Elite</em></sub></span>
+  <span style="display: inline-block; text-align: center; margin: 8px 10px 14px 10px; vertical-align: top;"><img src="./assets/Badges/ECSoC_2026/Master.webp" width="65px" alt="Master"/><br/><sub><em>Master</em></sub></span>
 </p>
 
 <sub><em><a href="https://www.summerofcode.xyz/profile/contributor/Babin123456" style="text-decoration: none;">View verified profile on ECSoC</a></em></sub>
@@ -323,8 +315,8 @@ Contributing, experimenting, collaborating and building for the community.
 <p><em>Contributor Milestones</em></p>
 
 <p align="center">
-  <img src="./assets/Badges/NSoC_2026/NSOC_1st_Badge.webp" width="70px" title="NSoC 1st Badge - First program milestone unlocked" alt="NSoC 1st Badge"/>&nbsp;&nbsp;
-  <img src="./assets/Badges/NSoC_2026/NSOC_Contributor.webp" width="70px" title="NSoC Contributor - Verified open-source contributor" alt="NSoC Contributor"/>
+  <span style="display: inline-block; text-align: center; margin: 8px 10px 14px 10px; vertical-align: top;"><img src="./assets/Badges/NSoC_2026/NSOC_1st_Badge.webp" width="65px" alt="1st Badge"/><br/><sub><em>1st Badge</em></sub></span>
+  <span style="display: inline-block; text-align: center; margin: 8px 10px 14px 10px; vertical-align: top;"><img src="./assets/Badges/NSoC_2026/NSOC_Contributor.webp" width="65px" alt="Contributor"/><br/><sub><em>Contributor</em></sub></span>
 </p>
 
 <sub><em><a href="https://lnkd.in/p/dSN98zxP" style="text-decoration: none;">View official announcement & verification on LinkedIn</a></em></sub>
