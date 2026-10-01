@@ -314,6 +314,8 @@ Contributing, experimenting, collaborating and building for the community.
 
 👋 **Open to collaboration, open-source contributions, and building impactful projects. 🚀**
 
+<img src="./assets/Thank_you_with_confetti.svg" width="300"/>
+
 </div>
 
 <!-- 🌊 Closing Footer Wave -->
