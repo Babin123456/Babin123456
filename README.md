@@ -2,7 +2,11 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:1D4ED8,100:06B6D4&text=Babin&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%2FML%20Enthusiast%20%E2%80%A2%20Open%20Source%20Contributor&descAlignY=61&descAlign=50&descSize=17" alt="Babin Header"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Babin Bid</h1>
+<h1 align="center">
+  <img src="./assets/Robot_says_hello.svg" width="300"/> 
+</br
+  >I'm Babin Bid
+</h1>
 
 <p align="center">
   <strong>Building intelligent software at the intersection of AI, engineering & innovation.</strong>
