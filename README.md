@@ -182,7 +182,7 @@ Contributing, experimenting, collaborating and building for the community.
 
 <p align="center">
   <a href="https://github.com/Babin123456/Ai-Data-Analysis" target="_blank" title="View Ai-Data-Analysis on GitHub">
-    <img src="./assets/projects/ai_data_analysis.svg" width="100%" alt="AI Data Analysis Poster" style="border-radius: 8px;"/>
+    <img src="./assets/projects/ai_data_analysis.svg" width="100%" alt="AI Data Analysis Banner" style="border-radius: 8px;"/>
   </a>
 </p>
 
@@ -205,7 +205,7 @@ Automated data analytics workspace running natural-language text-to-SQL querying
 
 <p align="center">
   <a href="https://github.com/Babin123456/Babin.Portfolio" target="_blank" title="View Babin.Portfolio on GitHub">
-    <img src="./assets/projects/portfolio.svg" width="100%" alt="Babin.Portfolio Poster" style="border-radius: 8px;"/>
+    <img src="./assets/projects/portfolio.svg" width="100%" alt="Babin.Portfolio Banner" style="border-radius: 8px;"/>
   </a>
 </p>
 
@@ -232,7 +232,7 @@ Cutting-edge developer portfolio showcasing academic research, project demos, in
 
 <p align="center">
   <a href="https://github.com/Babin123456/CargoConnect" target="_blank" title="View CargoConnect on GitHub">
-    <img src="./assets/projects/cargoconnect.svg" width="100%" alt="CargoConnect Poster" style="border-radius: 8px;"/>
+    <img src="./assets/projects/cargoconnect.svg" width="100%" alt="CargoConnect Banner" style="border-radius: 8px;"/>
   </a>
 </p>
 
@@ -255,7 +255,7 @@ Full-stack transport booking platform featuring instant vehicle estimates, fare 
 
 <p align="center">
   <a href="https://github.com/Babin123456/CivicSignal" target="_blank" title="View CivicSignal on GitHub">
-    <img src="./assets/projects/civicsignal.svg" width="100%" alt="CivicSignal AI Poster" style="border-radius: 8px;"/>
+    <img src="./assets/projects/civicsignal.svg" width="100%" alt="CivicSignal AI Banner" style="border-radius: 8px;"/>
   </a>
 </p>
 
@@ -281,7 +281,7 @@ Autonomous civic issue reporting engine with computer vision hazard detection (Y
 
 <p align="center">
   <a href="https://github.com/Babin123456/EduPilot-AI" target="_blank" title="View EduPilot-AI on GitHub">
-    <img src="./assets/projects/edupilot.svg" width="100%" alt="EduPilot AI Poster" style="border-radius: 8px;"/>
+    <img src="./assets/projects/edupilot.svg" width="100%" alt="EduPilot AI Banner" style="border-radius: 8px;"/>
   </a>
 </p>
 
@@ -304,7 +304,7 @@ Academic intelligence platform tailored for universities featuring multi-key dua
 
 <p align="center">
   <a href="https://github.com/Babin123456/KrishiBhoomi-AI" target="_blank" title="View KrishiBhoomi-AI on GitHub">
-    <img src="./assets/projects/krishibhoomi.svg" width="100%" alt="KrishiBhoomi AI Poster" style="border-radius: 8px;"/>
+    <img src="./assets/projects/krishibhoomi.svg" width="100%" alt="KrishiBhoomi AI Banner" style="border-radius: 8px;"/>
   </a>
 </p>
 
@@ -330,7 +330,7 @@ Comprehensive agricultural platform integrating XGBoost crop recommendations, CN
 
 <p align="center">
   <a href="https://github.com/Babin123456/ML-Based-Price-Prediction" target="_blank" title="View ML-Based-Price-Prediction on GitHub">
-    <img src="./assets/projects/price_prediction.svg" width="100%" alt="ML-Based Price Prediction Poster" style="border-radius: 8px;"/>
+    <img src="./assets/projects/price_prediction.svg" width="100%" alt="ML-Based Price Prediction Banner" style="border-radius: 8px;"/>
   </a>
 </p>
 
