@@ -180,7 +180,7 @@ Contributing, experimenting, collaborating and building for the community.
 
 <td width="50%" valign="top">
 
-### 📊 &nbsp;[**AI Data Analysis**](https://github.com/Babin123456/Ai-Data-Analysis)
+### <img src="./assets/icons/project-analytics.svg" width="22" valign="middle"/>&nbsp; [**AI Data Analysis**](https://github.com/Babin123456/Ai-Data-Analysis)
 **Full-Stack GenAI Data Analysis & Business Intelligence Platform**
 
 Automated data analytics workspace running natural-language text-to-SQL querying via Groq LLaMA, in-memory DuckDB computations and dynamic Plotly charts.
@@ -197,7 +197,7 @@ Automated data analytics workspace running natural-language text-to-SQL querying
 
 <td width="50%" valign="top">
 
-### 🌐 &nbsp;[**Babin.Portfolio**](https://github.com/Babin123456/Babin.Portfolio)
+### <img src="./assets/icons/project-portfolio.svg" width="22" valign="middle"/>&nbsp; [**Babin.Portfolio**](https://github.com/Babin123456/Babin.Portfolio)
 **Interactive Personal Developer Portfolio**
 
 Cutting-edge developer portfolio showcasing academic research, project demos, interactive hacker terminal emulator, 430+ verified certificates and dual-accent dark/light themes.
@@ -218,7 +218,7 @@ Cutting-edge developer portfolio showcasing academic research, project demos, in
 
 <td width="50%" valign="top">
 
-### 🚚 &nbsp;[**CargoConnect**](https://github.com/Babin123456/CargoConnect)
+### <img src="./assets/icons/project-cargoconnect.svg" width="22" valign="middle"/>&nbsp; [**CargoConnect**](https://github.com/Babin123456/CargoConnect)
 **India's Premier Logistics & Cargo Transfer Booking Platform**
 
 Full-stack transport booking platform featuring instant vehicle estimates, fare calculations, automated PDF invoices and serverless notifications.
@@ -235,7 +235,7 @@ Full-stack transport booking platform featuring instant vehicle estimates, fare 
 
 <td width="50%" valign="top">
 
-### 🚨 &nbsp;[**CivicSignal AI**](https://github.com/Babin123456/CivicSignal)
+### <img src="./assets/icons/project-civicsignal.svg" width="22" valign="middle"/>&nbsp; [**CivicSignal AI**](https://github.com/Babin123456/CivicSignal)
 **Autonomous Multi-Modal AI & Geospatial Civic Triage Engine**
 
 Autonomous civic issue reporting engine with computer vision hazard detection (YOLO), zero-shot NLP triage and 2dsphere spatial mapping.
@@ -255,7 +255,7 @@ Autonomous civic issue reporting engine with computer vision hazard detection (Y
 
 <td width="50%" valign="top">
 
-### 🎓 &nbsp;[**EduPilot AI**](https://github.com/Babin123456/EduPilot-AI)
+### <img src="./assets/icons/project-edupilot.svg" width="22" valign="middle"/>&nbsp; [**EduPilot AI**](https://github.com/Babin123456/EduPilot-AI)
 **Intelligent Academic Operational Layer for Higher Education**
 
 Academic intelligence platform tailored for universities featuring multi-key dual Groq + Gemini Vision routers, RAG search and student dashboards.
@@ -272,7 +272,7 @@ Academic intelligence platform tailored for universities featuring multi-key dua
 
 <td width="50%" valign="top">
 
-### 🚜 &nbsp;[**KrishiBhoomi AI**](https://github.com/Babin123456/KrishiBhoomi-AI)
+### <img src="./assets/icons/project-krishibhoomi.svg" width="22" valign="middle"/>&nbsp; [**KrishiBhoomi AI**](https://github.com/Babin123456/KrishiBhoomi-AI)
 **Production-Quality AI Agricultural Intelligence Platform**
 
 Comprehensive agricultural platform integrating XGBoost crop recommendations, CNN leaf disease detection, FAISS scheme RAG and voice advisory in 11 languages.
@@ -292,7 +292,7 @@ Comprehensive agricultural platform integrating XGBoost crop recommendations, CN
 
 <td width="50%" valign="top">
 
-### 🌾 &nbsp;[**ML-Based Price Prediction**](https://github.com/Babin123456/ML-Based-Price-Prediction)
+### <img src="./assets/icons/project-priceprediction.svg" width="22" valign="middle"/>&nbsp; [**ML-Based Price Prediction**](https://github.com/Babin123456/ML-Based-Price-Prediction)
 **For Agri-Horticultural Commodities (Springer Nature)**
 
 Empirical agricultural economics research modeling multi-seasonal commodity prices via Random Forest and SVR ensembles across harvest seasons.
