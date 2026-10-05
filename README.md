@@ -169,7 +169,7 @@ Contributing, experimenting, collaborating and building for the community.
 
 <div align="center">
 
-<h2 align="center"><img src="./assets/icons/rocket-left.svg" width="26" valign="middle"/>&nbsp; 𝐅𝐚𝐯𝐨𝐫𝐢𝐭𝐞 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬 &nbsp;<img src="./assets/icons/rocket-right.svg" width="26" valign="middle"/></h2>
+<h2 align="center"><img src="./assets/icons/rocket-left.svg" width="26" valign="middle"/>&nbsp; 𝐅𝐚𝐯𝐨𝐫𝐢𝐭𝐞 𝐖𝐨𝐫𝐤𝐬 𝐨𝐟 𝐀𝐥𝐥 𝐓𝐢𝐦𝐞 &nbsp;<img src="./assets/icons/rocket-right.svg" width="26" valign="middle"/></h2>
 
 ### Handcrafted tools, intelligent platforms & full-stack systems
 
