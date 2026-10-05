@@ -39,9 +39,7 @@
 
 <div align="center">
 
-<h2 align="center"><img src="./assets/icons/about-left.svg" width="26" valign="middle"/>&nbsp; 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 &nbsp;<img src="./assets/icons/about-right.svg" width="26" valign="middle"/></h2>
-
-### `> whoami`
+<h2 align="center"><img src="./assets/icons/about-left.svg" width="26" valign="middle"/>&nbsp; <code>&gt; whoami</code> &nbsp;<img src="./assets/icons/about-right.svg" width="26" valign="middle"/></h2>
 
 </div>
 
@@ -107,9 +105,7 @@ and continuously exploring what technology can make possible.
 
 <div align="center">
 
-<h2 align="center"><img src="./assets/icons/build-left.svg" width="26" valign="middle"/>&nbsp; 𝐖𝐡𝐚𝐭 𝐈 𝐁𝐮𝐢𝐥𝐝 &nbsp;<img src="./assets/icons/build-right.svg" width="26" valign="middle"/></h2>
-
-### `> ./what_i_build.sh`
+<h2 align="center"><img src="./assets/icons/build-left.svg" width="26" valign="middle"/>&nbsp; <code>&gt; ./what_i_build.sh</code> &nbsp;<img src="./assets/icons/build-right.svg" width="26" valign="middle"/></h2>
 
 </div>
 
@@ -171,11 +167,7 @@ Contributing, experimenting, collaborating and building for the community.
 
 <div align="center">
 
-<h2 align="center"><img src="./assets/icons/rocket-left.svg" width="26" valign="middle"/>&nbsp; 𝐅𝐚𝐯𝐨𝐫𝐢𝐭𝐞 𝐖𝐨𝐫𝐤𝐬 𝐨𝐟 𝐀𝐥𝐥 𝐓𝐢𝐦𝐞 &nbsp;<img src="./assets/icons/rocket-right.svg" width="26" valign="middle"/></h2>
-
-### `> ls -la ~/favorite-works/`
-
-<p><em>Handcrafted tools, intelligent platforms & full-stack systems</em></p>
+<h2 align="center"><img src="./assets/icons/rocket-left.svg" width="26" valign="middle"/>&nbsp; <code>&gt; ls -la ~/favorite-works/</code> &nbsp;<img src="./assets/icons/rocket-right.svg" width="26" valign="middle"/></h2>
 
 </div>
 
@@ -320,11 +312,7 @@ Empirical agricultural economics research modeling multi-seasonal commodity pric
 
 <div align="center">
 
-<h2 align="center"><img src="./assets/icons/trophy-left.svg" width="26" valign="middle"/>&nbsp; 𝐎𝐩𝐞𝐧 𝐒𝐨𝐮𝐫𝐜𝐞 & 𝐀𝐜𝐡𝐢𝐞𝐯𝐞𝐦𝐞𝐧𝐭𝐬 &nbsp;<img src="./assets/icons/trophy-right.svg" width="26" valign="middle"/></h2>
-
-### `> cat achievements.log`
-
-<p><em>Building in Public • Learning in Public • Contributing in Public</em></p>
+<h2 align="center"><img src="./assets/icons/trophy-left.svg" width="26" valign="middle"/>&nbsp; <code>&gt; cat achievements.log</code> &nbsp;<img src="./assets/icons/trophy-right.svg" width="26" valign="middle"/></h2>
 
 <br/>
 
@@ -493,11 +481,7 @@ Empirical agricultural economics research modeling multi-seasonal commodity pric
 
 <div align="center">
 
-<h2 align="center"><img src="./assets/icons/stack-left.svg" width="26" valign="middle"/>&nbsp; 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤 &nbsp;<img src="./assets/icons/stack-right.svg" width="26" valign="middle"/></h2>
-
-### `> neofetch --skills`
-
-*Technologies I use to turn ideas into working systems.*
+<h2 align="center"><img src="./assets/icons/stack-left.svg" width="26" valign="middle"/>&nbsp; <code>&gt; neofetch --skills</code> &nbsp;<img src="./assets/icons/stack-right.svg" width="26" valign="middle"/></h2>
 
 </div>
 
@@ -597,9 +581,7 @@ Empirical agricultural economics research modeling multi-seasonal commodity pric
 
 <div align="center">
 
-<h2 align="center"><img src="./assets/icons/analytics-left.svg" width="26" valign="middle"/>&nbsp; 𝐆𝐢𝐭𝐇𝐮𝐛 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬 &nbsp;<img src="./assets/icons/analytics-right.svg" width="26" valign="middle"/></h2>
-
-### `> curl -s https://api.github.com/users/Babin123456/stats`
+<h2 align="center"><img src="./assets/icons/analytics-left.svg" width="26" valign="middle"/>&nbsp; <code>&gt; ./github_stats.sh</code> &nbsp;<img src="./assets/icons/analytics-right.svg" width="26" valign="middle"/></h2>
 
 <br/>
 
@@ -651,9 +633,7 @@ Empirical agricultural economics research modeling multi-seasonal commodity pric
 
 <div align="center">
 
-<h2 align="center"><img src="./assets/icons/connect-left.svg" width="26" valign="middle"/>&nbsp; 𝐋𝐞𝐭'𝐬 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 &nbsp;<img src="./assets/icons/connect-right.svg" width="26" valign="middle"/></h2>
-
-### `> ssh babin@connect`
+<h2 align="center"><img src="./assets/icons/connect-left.svg" width="26" valign="middle"/>&nbsp; <code>&gt; ssh babin@connect</code> &nbsp;<img src="./assets/icons/connect-right.svg" width="26" valign="middle"/></h2>
 
 </br>
 
