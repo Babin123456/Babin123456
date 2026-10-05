@@ -180,48 +180,36 @@ Contributing, experimenting, collaborating and building for the community.
 
 <td width="50%" valign="top">
 
-<p align="center">
-  <a href="https://github.com/Babin123456/Ai-Data-Analysis" target="_blank" title="View Ai-Data-Analysis on GitHub">
-    <img src="./assets/projects/ai_data_analysis.svg" width="100%" alt="AI Data Analysis Banner" style="border-radius: 8px;"/>
-  </a>
-</p>
-
-### 📊 &nbsp;**AI Data Analysis**
+### 📊 &nbsp;[**AI Data Analysis**](https://github.com/Babin123456/Ai-Data-Analysis)
 **Full-Stack GenAI Data Analysis & Business Intelligence Platform**
 
 Automated data analytics workspace running natural-language text-to-SQL querying via Groq LLaMA, in-memory DuckDB computations and dynamic Plotly charts.
 
-<br/>
-
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black"/>
-<img src="https://img.shields.io/badge/Groq%20Cloud-F05032?style=flat-square&logo=groq&logoColor=white"/>
-<img src="https://img.shields.io/badge/Plotly.js-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+* **Highlights:** Natural-language SQL generator, in-memory data processing, instant CSV analysis.
+* **Tech Stack:**  
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Groq%20Cloud-F05032?style=flat-square&logo=groq&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly.js-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 
 </td>
 
 <td width="50%" valign="top">
 
-<p align="center">
-  <a href="https://github.com/Babin123456/Babin.Portfolio" target="_blank" title="View Babin.Portfolio on GitHub">
-    <img src="./assets/projects/portfolio.svg" width="100%" alt="Babin.Portfolio Banner" style="border-radius: 8px;"/>
-  </a>
-</p>
-
-### 🌐 &nbsp;**Babin.Portfolio**
+### 🌐 &nbsp;[**Babin.Portfolio**](https://github.com/Babin123456/Babin.Portfolio)
 **Interactive Personal Developer Portfolio**
 
 Cutting-edge developer portfolio showcasing academic research, project demos, interactive hacker terminal emulator, 430+ verified certificates and dual-accent dark/light themes.
 
-<br/>
-
-<img src="https://img.shields.io/badge/React%2018-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind%20v3-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white"/>
-<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+* **Highlights:** Three.js 3D canvas, interactive terminal emulator, responsive glassmorphism.
+* **Tech Stack:**  
+  <img src="https://img.shields.io/badge/React%2018-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind%20v3-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
 
 </td>
 
@@ -230,47 +218,35 @@ Cutting-edge developer portfolio showcasing academic research, project demos, in
 
 <td width="50%" valign="top">
 
-<p align="center">
-  <a href="https://github.com/Babin123456/CargoConnect" target="_blank" title="View CargoConnect on GitHub">
-    <img src="./assets/projects/cargoconnect.svg" width="100%" alt="CargoConnect Banner" style="border-radius: 8px;"/>
-  </a>
-</p>
-
-### 🚚 &nbsp;**CargoConnect**
+### 🚚 &nbsp;[**CargoConnect**](https://github.com/Babin123456/CargoConnect)
 **India's Premier Logistics & Cargo Transfer Booking Platform**
 
 Full-stack transport booking platform featuring instant vehicle estimates, fare calculations, automated PDF invoices and serverless notifications.
 
-<br/>
-
-<img src="https://img.shields.io/badge/React%2018-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+* **Highlights:** Dynamic distance fare estimation, jsPDF invoice generation, serverless email alerts.
+* **Tech Stack:**  
+  <img src="https://img.shields.io/badge/React%2018-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
 
 </td>
 
 <td width="50%" valign="top">
 
-<p align="center">
-  <a href="https://github.com/Babin123456/CivicSignal" target="_blank" title="View CivicSignal on GitHub">
-    <img src="./assets/projects/civicsignal.svg" width="100%" alt="CivicSignal AI Banner" style="border-radius: 8px;"/>
-  </a>
-</p>
-
-### 🚨 &nbsp;**CivicSignal AI**
+### 🚨 &nbsp;[**CivicSignal AI**](https://github.com/Babin123456/CivicSignal)
 **Autonomous Multi-Modal AI & Geospatial Civic Triage Engine**
 
 Autonomous civic issue reporting engine with computer vision hazard detection (YOLO), zero-shot NLP triage and 2dsphere spatial mapping.
 
-<br/>
-
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/YOLO%20Vision-00FFFF?style=flat-square&logo=opencv&logoColor=black"/>
-<img src="https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+* **Highlights:** YOLOv8 vision pipeline, automated severity scoring, geospatial proximity clustering.
+* **Tech Stack:**  
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLO%20Vision-00FFFF?style=flat-square&logo=opencv&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 
 </td>
 
@@ -279,47 +255,35 @@ Autonomous civic issue reporting engine with computer vision hazard detection (Y
 
 <td width="50%" valign="top">
 
-<p align="center">
-  <a href="https://github.com/Babin123456/EduPilot-AI" target="_blank" title="View EduPilot-AI on GitHub">
-    <img src="./assets/projects/edupilot.svg" width="100%" alt="EduPilot AI Banner" style="border-radius: 8px;"/>
-  </a>
-</p>
-
-### 🎓 &nbsp;**EduPilot AI**
+### 🎓 &nbsp;[**EduPilot AI**](https://github.com/Babin123456/EduPilot-AI)
 **Intelligent Academic Operational Layer for Higher Education**
 
 Academic intelligence platform tailored for universities featuring multi-key dual Groq + Gemini Vision routers, RAG search and student dashboards.
 
-<br/>
-
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/React%2018-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Groq%20LLaMA%203.3-F05032?style=flat-square&logo=groq&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini%20Vision-4285F4?style=flat-square&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG%20Search-7B1FA2?style=flat-square&logo=huggingface&logoColor=white"/>
+* **Highlights:** High-throughput multi-key LLM failover, multimodal paper parsing, syllabus RAG search.
+* **Tech Stack:**  
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React%2018-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Groq%20LLaMA%203.3-F05032?style=flat-square&logo=groq&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini%20Vision-4285F4?style=flat-square&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG%20Search-7B1FA2?style=flat-square&logo=huggingface&logoColor=white"/>
 
 </td>
 
 <td width="50%" valign="top">
 
-<p align="center">
-  <a href="https://github.com/Babin123456/KrishiBhoomi-AI" target="_blank" title="View KrishiBhoomi-AI on GitHub">
-    <img src="./assets/projects/krishibhoomi.svg" width="100%" alt="KrishiBhoomi AI Banner" style="border-radius: 8px;"/>
-  </a>
-</p>
-
-### 🚜 &nbsp;**KrishiBhoomi AI**
+### 🚜 &nbsp;[**KrishiBhoomi AI**](https://github.com/Babin123456/KrishiBhoomi-AI)
 **Production-Quality AI Agricultural Intelligence Platform**
 
 Comprehensive agricultural platform integrating XGBoost crop recommendations, CNN leaf disease detection, FAISS scheme RAG and voice advisory in 11 languages.
 
-<br/>
-
-<img src="https://img.shields.io/badge/Next.js%2015-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/XGBoost-1192E8?style=flat-square&logo=xgboost&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini%20AI-4285F4?style=flat-square&logo=google&logoColor=white"/>
+* **Highlights:** Multi-model ensemble diagnosis, multilingual voice agent, vector search over government schemes.
+* **Tech Stack:**  
+  <img src="https://img.shields.io/badge/Next.js%2015-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-1192E8?style=flat-square&logo=xgboost&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini%20AI-4285F4?style=flat-square&logo=google&logoColor=white"/>
 
 </td>
 
@@ -328,23 +292,17 @@ Comprehensive agricultural platform integrating XGBoost crop recommendations, CN
 
 <td width="50%" valign="top">
 
-<p align="center">
-  <a href="https://github.com/Babin123456/ML-Based-Price-Prediction" target="_blank" title="View ML-Based-Price-Prediction on GitHub">
-    <img src="./assets/projects/price_prediction.svg" width="100%" alt="ML-Based Price Prediction Banner" style="border-radius: 8px;"/>
-  </a>
-</p>
-
-### 🌾 &nbsp;**ML-Based Price Prediction**
+### 🌾 &nbsp;[**ML-Based Price Prediction**](https://github.com/Babin123456/ML-Based-Price-Prediction)
 **For Agri-Horticultural Commodities (Springer Nature)**
 
 Empirical agricultural economics research modeling multi-seasonal commodity prices via Random Forest and SVR ensembles across harvest seasons.
 
-<br/>
-
-<img src="https://img.shields.io/badge/Python%203.8+-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Springer%20Nature-006699?style=flat-square&logo=springer&logoColor=white"/>
+* **Highlights:** Multi-season price forecasting, regression ensembles, published under Springer Nature.
+* **Tech Stack:**  
+  <img src="https://img.shields.io/badge/Python%203.8+-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Springer%20Nature-006699?style=flat-square&logo=springer&logoColor=white"/>
 
 </td>
 
