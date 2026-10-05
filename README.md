@@ -326,11 +326,7 @@ Comprehensive agricultural platform integrating XGBoost crop recommendations, CN
 </tr>
 <tr>
 
-<td colspan="2" width="100%" align="center">
-
-<table width="100%" style="border:none;">
-<tr>
-<td width="100%" align="left" style="border:none;">
+<td width="50%" valign="top">
 
 <p align="center">
   <a href="https://github.com/Babin123456/ML-Based-Price-Prediction" target="_blank" title="View ML-Based-Price-Prediction on GitHub">
@@ -351,9 +347,8 @@ Empirical agricultural economics research modeling multi-seasonal commodity pric
 <img src="https://img.shields.io/badge/Springer%20Nature-006699?style=flat-square&logo=springer&logoColor=white"/>
 
 </td>
-</tr>
-</table>
 
+<td width="50%" valign="top">
 </td>
 
 </tr>
