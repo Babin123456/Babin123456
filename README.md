@@ -284,28 +284,6 @@ Comprehensive agricultural platform integrating XGBoost crop recommendations, CN
 </td>
 
 </tr>
-<tr>
-
-<td width="50%" valign="top">
-
-### <img src="./assets/icons/project-priceprediction.svg" width="22" valign="middle"/>&nbsp; [**ML-Based Price Prediction**](https://github.com/Babin123456/ML-Based-Price-Prediction)
-**For Agri-Horticultural Commodities (Springer Nature)**
-
-Empirical agricultural economics research modeling multi-seasonal commodity prices via Random Forest and SVR ensembles across harvest seasons.
-
-* **Highlights:** Multi-season price forecasting, regression ensembles, published under Springer Nature.
-* **Tech Stack:**  
-  <img src="https://img.shields.io/badge/Python%203.8+-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Springer%20Nature-006699?style=flat-square&logo=springer&logoColor=white"/>
-
-</td>
-
-<td width="50%" valign="top">
-</td>
-
-</tr>
 </table>
 
 ---
